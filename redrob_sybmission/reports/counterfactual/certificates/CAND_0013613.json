@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0013613",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Adobe",
+    "years_of_experience": 4.7,
+    "location": "Singapore"
+  },
+  "baseline": {
+    "rank": 32,
+    "score": 10.80825658,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 83,
+    "keyword_independence": 100,
+    "skill_list_independence": 90,
+    "company_context_independence": 16,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 63
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.70803464,
+      "score_delta": -0.10022194,
+      "rank": 42,
+      "rank_delta": 10
+    },
+    "perfect_keywords_injected": {
+      "score": 10.80825658,
+      "score_delta": -0.0,
+      "rank": 32,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.44214614,
+      "score_delta": -0.36611044,
+      "rank": 74,
+      "rank_delta": 42
+    },
+    "behavior_neutralized": {
+      "score": 10.38894712,
+      "score_delta": -0.41930946,
+      "rank": 79,
+      "rank_delta": 47
+    },
+    "made_unavailable": {
+      "score": 9.75487744,
+      "score_delta": -1.05337914,
+      "rank": 132,
+      "rank_delta": 100
+    },
+    "contradiction_injected": {
+      "score": 10.11998264,
+      "score_delta": -0.68827393,
+      "rank": 100,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.8003942,
+      "score_delta": -1.00786237,
+      "rank": 129,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.66358236,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 104
+    },
+    "ownership_evidence_removed": {
+      "score": 9.92586632,
+      "score_delta": -0.88239026,
+      "rank": 119,
+      "rank_delta": 87
+    },
+    "all_project_evidence_removed": {
+      "score": 1.89527608,
+      "score_delta": -8.91298049,
+      "rank": 25108,
+      "rank_delta": 25076
+    }
+  }
+}

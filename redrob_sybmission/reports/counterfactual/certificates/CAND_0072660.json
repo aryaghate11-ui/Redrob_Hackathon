@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0072660",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Unacademy",
+    "years_of_experience": 7.1,
+    "location": "Berlin"
+  },
+  "baseline": {
+    "rank": 76,
+    "score": 10.41128221,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 52
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.41128221,
+      "score_delta": 0.0,
+      "rank": 76,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.41128221,
+      "score_delta": 0.0,
+      "rank": 76,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.41128221,
+      "score_delta": 0.0,
+      "rank": 76,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.17370707,
+      "score_delta": -0.23757513,
+      "rank": 94,
+      "rank_delta": 18
+    },
+    "made_unavailable": {
+      "score": 9.37308619,
+      "score_delta": -1.03819602,
+      "rank": 150,
+      "rank_delta": 74
+    },
+    "contradiction_injected": {
+      "score": 9.72300827,
+      "score_delta": -0.68827393,
+      "rank": 135,
+      "rank_delta": 59
+    },
+    "production_evidence_removed": {
+      "score": 9.40341983,
+      "score_delta": -1.00786237,
+      "rank": 150,
+      "rank_delta": 74
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.26660799,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 78
+    },
+    "ownership_evidence_removed": {
+      "score": 9.52889195,
+      "score_delta": -0.88239026,
+      "rank": 142,
+      "rank_delta": 66
+    },
+    "all_project_evidence_removed": {
+      "score": 1.49830171,
+      "score_delta": -8.91298049,
+      "rank": 29092,
+      "rank_delta": 29016
+    }
+  }
+}

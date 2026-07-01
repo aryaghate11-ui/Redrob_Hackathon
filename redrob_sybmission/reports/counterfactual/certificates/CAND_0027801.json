@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0027801",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "InMobi",
+    "years_of_experience": 7.4,
+    "location": "Hyderabad, Telangana"
+  },
+  "baseline": {
+    "rank": 90,
+    "score": 10.23999726,
+    "relevance_tier": 4,
+    "best_archetype_id": "ARCH_C042CA80ABD9"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 98,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 64,
+    "availability_sensitivity": 48
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.19322702,
+      "score_delta": -0.04677024,
+      "rank": 92,
+      "rank_delta": 2
+    },
+    "perfect_keywords_injected": {
+      "score": 10.23999726,
+      "score_delta": -0.0,
+      "rank": 90,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 9.87388682,
+      "score_delta": -0.36611044,
+      "rank": 120,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 9.86657061,
+      "score_delta": -0.37342665,
+      "rank": 122,
+      "rank_delta": 32
+    },
+    "made_unavailable": {
+      "score": 9.22401106,
+      "score_delta": -1.01598619,
+      "rank": 155,
+      "rank_delta": 65
+    },
+    "contradiction_injected": {
+      "score": 9.55172332,
+      "score_delta": -0.68827393,
+      "rank": 141,
+      "rank_delta": 51
+    },
+    "production_evidence_removed": {
+      "score": 9.23213488,
+      "score_delta": -1.00786237,
+      "rank": 155,
+      "rank_delta": 65
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.28519357,
+      "score_delta": -0.95480369,
+      "rank": 154,
+      "rank_delta": 64
+    },
+    "ownership_evidence_removed": {
+      "score": 9.49502073,
+      "score_delta": -0.74497652,
+      "rank": 145,
+      "rank_delta": 55
+    },
+    "all_project_evidence_removed": {
+      "score": 2.16366375,
+      "score_delta": -8.0763335,
+      "rank": 22898,
+      "rank_delta": 22808
+    }
+  }
+}

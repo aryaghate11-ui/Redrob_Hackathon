@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0078002",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 6.3,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 17,
+    "score": 11.01589207,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 34,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 63
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.97204498,
+      "score_delta": -0.0438471,
+      "rank": 18,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 11.01589207,
+      "score_delta": -0.0,
+      "rank": 17,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.64978163,
+      "score_delta": -0.36611044,
+      "rank": 50,
+      "rank_delta": 33
+    },
+    "behavior_neutralized": {
+      "score": 10.64993201,
+      "score_delta": -0.36596007,
+      "rank": 50,
+      "rank_delta": 33
+    },
+    "made_unavailable": {
+      "score": 9.97566031,
+      "score_delta": -1.04023176,
+      "rank": 116,
+      "rank_delta": 99
+    },
+    "contradiction_injected": {
+      "score": 10.32761814,
+      "score_delta": -0.68827393,
+      "rank": 85,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 10.0080297,
+      "score_delta": -1.00786237,
+      "rank": 111,
+      "rank_delta": 94
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.87121786,
+      "score_delta": -1.14467421,
+      "rank": 122,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 10.13350181,
+      "score_delta": -0.88239026,
+      "rank": 99,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 2.10291158,
+      "score_delta": -8.91298049,
+      "rank": 23450,
+      "rank_delta": 23433
+    }
+  }
+}

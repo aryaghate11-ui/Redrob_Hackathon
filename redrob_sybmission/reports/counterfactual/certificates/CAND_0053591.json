@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0053591",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 5.3,
+    "location": "Toronto"
+  },
+  "baseline": {
+    "rank": 92,
+    "score": 10.22067966,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 38,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 63,
+    "availability_sensitivity": 48
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.19562418,
+      "score_delta": -0.02505548,
+      "rank": 92,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.22067966,
+      "score_delta": -0.0,
+      "rank": 92,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 9.85456922,
+      "score_delta": -0.36611044,
+      "rank": 123,
+      "rank_delta": 31
+    },
+    "behavior_neutralized": {
+      "score": 9.66346774,
+      "score_delta": -0.55721192,
+      "rank": 136,
+      "rank_delta": 44
+    },
+    "made_unavailable": {
+      "score": 9.05212094,
+      "score_delta": -1.16855872,
+      "rank": 157,
+      "rank_delta": 65
+    },
+    "contradiction_injected": {
+      "score": 9.53240573,
+      "score_delta": -0.68827393,
+      "rank": 142,
+      "rank_delta": 50
+    },
+    "production_evidence_removed": {
+      "score": 9.21281729,
+      "score_delta": -1.00786237,
+      "rank": 155,
+      "rank_delta": 63
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.07600545,
+      "score_delta": -1.14467421,
+      "rank": 156,
+      "rank_delta": 64
+    },
+    "ownership_evidence_removed": {
+      "score": 9.3382894,
+      "score_delta": -0.88239026,
+      "rank": 153,
+      "rank_delta": 61
+    },
+    "all_project_evidence_removed": {
+      "score": 2.11003831,
+      "score_delta": -8.11064135,
+      "rank": 23390,
+      "rank_delta": 23298
+    }
+  }
+}

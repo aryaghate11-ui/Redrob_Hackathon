@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0000031",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Swiggy",
+    "years_of_experience": 6.0,
+    "location": "Hyderabad, Telangana"
+  },
+  "baseline": {
+    "rank": 4,
+    "score": 11.36783469,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 92,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 72,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 57,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.28529898,
+      "score_delta": -0.08253571,
+      "rank": 4,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.36783469,
+      "score_delta": -0.0,
+      "rank": 4,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 11.00172425,
+      "score_delta": -0.36611044,
+      "rank": 18,
+      "rank_delta": 14
+    },
+    "behavior_neutralized": {
+      "score": 10.96148203,
+      "score_delta": -0.40635266,
+      "rank": 18,
+      "rank_delta": 14
+    },
+    "made_unavailable": {
+      "score": 10.24226399,
+      "score_delta": -1.12557071,
+      "rank": 89,
+      "rank_delta": 85
+    },
+    "contradiction_injected": {
+      "score": 10.67956076,
+      "score_delta": -0.68827393,
+      "rank": 46,
+      "rank_delta": 42
+    },
+    "production_evidence_removed": {
+      "score": 10.35997232,
+      "score_delta": -1.00786237,
+      "rank": 83,
+      "rank_delta": 79
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.22316048,
+      "score_delta": -1.14467421,
+      "rank": 91,
+      "rank_delta": 87
+    },
+    "ownership_evidence_removed": {
+      "score": 10.48544443,
+      "score_delta": -0.88239026,
+      "rank": 62,
+      "rank_delta": 58
+    },
+    "all_project_evidence_removed": {
+      "score": 2.20952407,
+      "score_delta": -9.15831062,
+      "rank": 22432,
+      "rank_delta": 22428
+    }
+  }
+}

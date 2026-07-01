@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0044883",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Mad Street Den",
+    "years_of_experience": 6.3,
+    "location": "Berlin"
+  },
+  "baseline": {
+    "rank": 49,
+    "score": 10.65978822,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 24,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.65978822,
+      "score_delta": 0.0,
+      "rank": 49,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.65978822,
+      "score_delta": 0.0,
+      "rank": 49,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.29367778,
+      "score_delta": -0.36611044,
+      "rank": 87,
+      "rank_delta": 38
+    },
+    "behavior_neutralized": {
+      "score": 10.36295571,
+      "score_delta": -0.2968325,
+      "rank": 82,
+      "rank_delta": 33
+    },
+    "made_unavailable": {
+      "score": 9.73837471,
+      "score_delta": -0.92141351,
+      "rank": 133,
+      "rank_delta": 84
+    },
+    "contradiction_injected": {
+      "score": 9.97151428,
+      "score_delta": -0.68827393,
+      "rank": 116,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.65192584,
+      "score_delta": -1.00786237,
+      "rank": 138,
+      "rank_delta": 89
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.51511401,
+      "score_delta": -1.14467421,
+      "rank": 143,
+      "rank_delta": 94
+    },
+    "ownership_evidence_removed": {
+      "score": 9.77739796,
+      "score_delta": -0.88239026,
+      "rank": 130,
+      "rank_delta": 81
+    },
+    "all_project_evidence_removed": {
+      "score": 1.77998211,
+      "score_delta": -8.87980611,
+      "rank": 26034,
+      "rank_delta": 25985
+    }
+  }
+}

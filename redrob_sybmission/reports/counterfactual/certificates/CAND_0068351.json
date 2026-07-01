@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0068351",
+  "profile": {
+    "current_title": "Lead AI Engineer",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 6.4,
+    "location": "Delhi, Delhi"
+  },
+  "baseline": {
+    "rank": 79,
+    "score": 10.3962585,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_CF92524D1B48"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 68,
+    "availability_sensitivity": 50
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.3962585,
+      "score_delta": 0.0,
+      "rank": 79,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.3962585,
+      "score_delta": 0.0,
+      "rank": 79,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.3962585,
+      "score_delta": 0.0,
+      "rank": 79,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.21615916,
+      "score_delta": -0.18009935,
+      "rank": 92,
+      "rank_delta": 13
+    },
+    "made_unavailable": {
+      "score": 9.41553827,
+      "score_delta": -0.98072023,
+      "rank": 148,
+      "rank_delta": 69
+    },
+    "contradiction_injected": {
+      "score": 9.70798457,
+      "score_delta": -0.68827393,
+      "rank": 136,
+      "rank_delta": 57
+    },
+    "production_evidence_removed": {
+      "score": 9.38839613,
+      "score_delta": -1.00786237,
+      "rank": 150,
+      "rank_delta": 71
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.25158429,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 75
+    },
+    "ownership_evidence_removed": {
+      "score": 9.51386824,
+      "score_delta": -0.88239026,
+      "rank": 143,
+      "rank_delta": 64
+    },
+    "all_project_evidence_removed": {
+      "score": 1.48327801,
+      "score_delta": -8.91298049,
+      "rank": 29282,
+      "rank_delta": 29203
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0051615",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 4.6,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 63,
+    "score": 10.47792012,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 59
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.47792012,
+      "score_delta": -0.0,
+      "rank": 63,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.47792012,
+      "score_delta": -0.0,
+      "rank": 63,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.47792012,
+      "score_delta": -0.0,
+      "rank": 63,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 9.91292433,
+      "score_delta": -0.56499579,
+      "rank": 119,
+      "rank_delta": 56
+    },
+    "made_unavailable": {
+      "score": 9.34852149,
+      "score_delta": -1.12939863,
+      "rank": 153,
+      "rank_delta": 90
+    },
+    "contradiction_injected": {
+      "score": 9.78964618,
+      "score_delta": -0.68827393,
+      "rank": 130,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.47005775,
+      "score_delta": -1.00786237,
+      "rank": 146,
+      "rank_delta": 83
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.33324591,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 90
+    },
+    "ownership_evidence_removed": {
+      "score": 9.59552986,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 78
+    },
+    "all_project_evidence_removed": {
+      "score": 1.81026975,
+      "score_delta": -8.66765037,
+      "rank": 25776,
+      "rank_delta": 25713
+    }
+  }
+}

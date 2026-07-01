@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0005538",
+  "profile": {
+    "current_title": "Senior AI Engineer",
+    "current_company": "Adobe",
+    "years_of_experience": 5.9,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 31,
+    "score": 10.81073295,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_E51A75098E6B"
+  },
+  "stability_scores": {
+    "overall_stability": 98,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 65
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.81073295,
+      "score_delta": 0.0,
+      "rank": 31,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.81073295,
+      "score_delta": 0.0,
+      "rank": 31,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.81073295,
+      "score_delta": 0.0,
+      "rank": 31,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.37756708,
+      "score_delta": -0.43316588,
+      "rank": 80,
+      "rank_delta": 49
+    },
+    "made_unavailable": {
+      "score": 9.72177333,
+      "score_delta": -1.08895963,
+      "rank": 135,
+      "rank_delta": 104
+    },
+    "contradiction_injected": {
+      "score": 10.12245902,
+      "score_delta": -0.68827393,
+      "rank": 100,
+      "rank_delta": 69
+    },
+    "production_evidence_removed": {
+      "score": 9.80287058,
+      "score_delta": -1.00786237,
+      "rank": 129,
+      "rank_delta": 98
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.66605874,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 9.92834269,
+      "score_delta": -0.88239026,
+      "rank": 119,
+      "rank_delta": 88
+    },
+    "all_project_evidence_removed": {
+      "score": 1.65242233,
+      "score_delta": -9.15831062,
+      "rank": 27263,
+      "rank_delta": 27232
+    }
+  }
+}

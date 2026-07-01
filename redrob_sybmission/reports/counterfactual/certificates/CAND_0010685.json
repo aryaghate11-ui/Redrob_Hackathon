@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0010685",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 6.7,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 47,
+    "score": 10.66714793,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 98,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 61
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.66714793,
+      "score_delta": 0.0,
+      "rank": 47,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.66714793,
+      "score_delta": 0.0,
+      "rank": 47,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.66714793,
+      "score_delta": 0.0,
+      "rank": 47,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.33596455,
+      "score_delta": -0.33118338,
+      "rank": 84,
+      "rank_delta": 37
+    },
+    "made_unavailable": {
+      "score": 9.53534366,
+      "score_delta": -1.13180426,
+      "rank": 142,
+      "rank_delta": 95
+    },
+    "contradiction_injected": {
+      "score": 9.97887399,
+      "score_delta": -0.68827393,
+      "rank": 116,
+      "rank_delta": 69
+    },
+    "production_evidence_removed": {
+      "score": 9.65928555,
+      "score_delta": -1.00786237,
+      "rank": 136,
+      "rank_delta": 89
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.52247371,
+      "score_delta": -1.14467421,
+      "rank": 143,
+      "rank_delta": 96
+    },
+    "ownership_evidence_removed": {
+      "score": 9.78475767,
+      "score_delta": -0.88239026,
+      "rank": 130,
+      "rank_delta": 83
+    },
+    "all_project_evidence_removed": {
+      "score": 1.5088373,
+      "score_delta": -9.15831062,
+      "rank": 28963,
+      "rank_delta": 28916
+    }
+  }
+}

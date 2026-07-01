@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0075574",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Haptik",
+    "years_of_experience": 5.7,
+    "location": "Bangalore, Karnataka"
+  },
+  "baseline": {
+    "rank": 55,
+    "score": 10.56863067,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 58
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.48093648,
+      "score_delta": -0.08769419,
+      "rank": 62,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 10.56863067,
+      "score_delta": -0.0,
+      "rank": 55,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.56863067,
+      "score_delta": -0.0,
+      "rank": 55,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.24928233,
+      "score_delta": -0.31934834,
+      "rank": 89,
+      "rank_delta": 34
+    },
+    "made_unavailable": {
+      "score": 9.54279909,
+      "score_delta": -1.02583159,
+      "rank": 142,
+      "rank_delta": 87
+    },
+    "contradiction_injected": {
+      "score": 9.88035674,
+      "score_delta": -0.68827393,
+      "rank": 120,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.5607683,
+      "score_delta": -1.00786237,
+      "rank": 141,
+      "rank_delta": 86
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.42395646,
+      "score_delta": -1.14467421,
+      "rank": 148,
+      "rank_delta": 93
+    },
+    "ownership_evidence_removed": {
+      "score": 9.68624041,
+      "score_delta": -0.88239026,
+      "rank": 136,
+      "rank_delta": 81
+    },
+    "all_project_evidence_removed": {
+      "score": 1.65565018,
+      "score_delta": -8.91298049,
+      "rank": 27229,
+      "rank_delta": 27174
+    }
+  }
+}

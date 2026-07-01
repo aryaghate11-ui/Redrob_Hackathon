@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0083307",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "CRED",
+    "years_of_experience": 7.8,
+    "location": "Vizag, Andhra Pradesh"
+  },
+  "baseline": {
+    "rank": 11,
+    "score": 11.1180594,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 89,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 48,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 72,
+    "availability_sensitivity": 58
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.1180594,
+      "score_delta": -0.0,
+      "rank": 11,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.1180594,
+      "score_delta": -0.0,
+      "rank": 11,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.75194896,
+      "score_delta": -0.36611044,
+      "rank": 37,
+      "rank_delta": 26
+    },
+    "behavior_neutralized": {
+      "score": 10.76391212,
+      "score_delta": -0.35414728,
+      "rank": 36,
+      "rank_delta": 25
+    },
+    "made_unavailable": {
+      "score": 10.13608499,
+      "score_delta": -0.98197441,
+      "rank": 97,
+      "rank_delta": 86
+    },
+    "contradiction_injected": {
+      "score": 10.42978546,
+      "score_delta": -0.68827393,
+      "rank": 75,
+      "rank_delta": 64
+    },
+    "production_evidence_removed": {
+      "score": 10.11019702,
+      "score_delta": -1.00786237,
+      "rank": 103,
+      "rank_delta": 92
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.97338518,
+      "score_delta": -1.14467421,
+      "rank": 116,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 10.23566914,
+      "score_delta": -0.88239026,
+      "rank": 91,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 1.95974877,
+      "score_delta": -9.15831062,
+      "rank": 24611,
+      "rank_delta": 24600
+    }
+  }
+}

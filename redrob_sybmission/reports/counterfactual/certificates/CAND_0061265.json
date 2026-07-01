@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0061265",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.6,
+    "location": "Delhi, Delhi"
+  },
+  "baseline": {
+    "rank": 30,
+    "score": 10.82169713,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 85,
+    "keyword_independence": 100,
+    "skill_list_independence": 97,
+    "company_context_independence": 22,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 64
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.77785003,
+      "score_delta": -0.0438471,
+      "rank": 33,
+      "rank_delta": 3
+    },
+    "perfect_keywords_injected": {
+      "score": 10.82169713,
+      "score_delta": -0.0,
+      "rank": 30,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.45558669,
+      "score_delta": -0.36611044,
+      "rank": 69,
+      "rank_delta": 39
+    },
+    "behavior_neutralized": {
+      "score": 10.35501301,
+      "score_delta": -0.46668412,
+      "rank": 84,
+      "rank_delta": 54
+    },
+    "made_unavailable": {
+      "score": 9.75365429,
+      "score_delta": -1.06804284,
+      "rank": 132,
+      "rank_delta": 102
+    },
+    "contradiction_injected": {
+      "score": 10.13342319,
+      "score_delta": -0.68827393,
+      "rank": 99,
+      "rank_delta": 69
+    },
+    "production_evidence_removed": {
+      "score": 9.81383475,
+      "score_delta": -1.00786237,
+      "rank": 127,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.67702291,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 106
+    },
+    "ownership_evidence_removed": {
+      "score": 9.93930687,
+      "score_delta": -0.88239026,
+      "rank": 117,
+      "rank_delta": 87
+    },
+    "all_project_evidence_removed": {
+      "score": 2.18722114,
+      "score_delta": -8.63447599,
+      "rank": 22668,
+      "rank_delta": 22638
+    }
+  }
+}

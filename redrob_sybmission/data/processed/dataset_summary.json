@@ -1,0 +1,47 @@
+{
+  "source": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\[PUB] India_runs_data_and_ai_challenge\\India_runs_data_and_ai_challenge\\candidates.jsonl",
+  "reference_date": "2026-06-18",
+  "candidate_count": 100000,
+  "unique_candidate_ids": 100000,
+  "duplicate_candidate_ids": 0,
+  "career_entry_count": 300171,
+  "unique_project_archetypes": 44,
+  "candidates_with_product_history": 13877,
+  "services_only_candidates": 9745,
+  "candidates_with_credibility_flags": 68,
+  "distributions": {
+    "best_preliminary_project_tier": {
+      "0": 60352,
+      "1": 175,
+      "2": 38982,
+      "3": 412,
+      "4": 51,
+      "5": 28
+    },
+    "project_count": {
+      "1": 18508,
+      "2": 24186,
+      "3": 22126,
+      "4": 17131,
+      "5": 11469,
+      "6": 5196,
+      "7": 1218,
+      "8": 152,
+      "9": 14
+    },
+    "contradiction_count": {
+      "0": 99932,
+      "1": 12,
+      "2": 35,
+      "3": 8,
+      "4": 5,
+      "5": 8
+    }
+  },
+  "artifacts": {
+    "project_archetypes": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\data\\processed\\project_archetypes.csv",
+    "archetype_label_template": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\data\\processed\\archetype_label_template.csv",
+    "candidate_features": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\data\\processed\\candidate_features.jsonl",
+    "dataset_summary": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\data\\processed\\dataset_summary.json"
+  }
+}

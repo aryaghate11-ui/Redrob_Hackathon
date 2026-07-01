@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0028793",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Google",
+    "years_of_experience": 7.2,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 40,
+    "score": 10.73998803,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 94,
+    "company_context_independence": 18,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 59
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.66983268,
+      "score_delta": -0.07015536,
+      "rank": 46,
+      "rank_delta": 6
+    },
+    "perfect_keywords_injected": {
+      "score": 10.73998803,
+      "score_delta": -0.0,
+      "rank": 40,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.37387759,
+      "score_delta": -0.36611044,
+      "rank": 81,
+      "rank_delta": 41
+    },
+    "behavior_neutralized": {
+      "score": 10.37816628,
+      "score_delta": -0.36182175,
+      "rank": 80,
+      "rank_delta": 40
+    },
+    "made_unavailable": {
+      "score": 9.78504772,
+      "score_delta": -0.95494031,
+      "rank": 130,
+      "rank_delta": 90
+    },
+    "contradiction_injected": {
+      "score": 10.0517141,
+      "score_delta": -0.68827393,
+      "rank": 107,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.73212566,
+      "score_delta": -1.00786237,
+      "rank": 133,
+      "rank_delta": 93
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.59531382,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 101
+    },
+    "ownership_evidence_removed": {
+      "score": 9.85759777,
+      "score_delta": -0.88239026,
+      "rank": 123,
+      "rank_delta": 83
+    },
+    "all_project_evidence_removed": {
+      "score": 2.10551205,
+      "score_delta": -8.63447599,
+      "rank": 23432,
+      "rank_delta": 23392
+    }
+  }
+}

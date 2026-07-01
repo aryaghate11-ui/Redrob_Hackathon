@@ -1,0 +1,73 @@
+{
+  "candidate_count": 100000,
+  "feature_count": 23,
+  "pair_counts": {
+    "train": 78399,
+    "validation": 19747,
+    "test": 19645
+  },
+  "pair_types": {
+    "train": {
+      "behavioral_twins": 1127,
+      "cross_tier": 40000,
+      "within_tier": 37272
+    },
+    "validation": {
+      "behavioral_twins": 47,
+      "cross_tier": 10000,
+      "within_tier": 9700
+    },
+    "test": {
+      "behavioral_twins": 150,
+      "cross_tier": 10000,
+      "within_tier": 9495
+    }
+  },
+  "metrics": {
+    "train_pairwise_accuracy": 0.926032219798722,
+    "validation_pairwise_accuracy": 0.968197700916595,
+    "test_pairwise_accuracy": 0.9307202850598116,
+    "ndcg_at_10_vs_reviewed_tiers": 1.0,
+    "ndcg_at_50_vs_reviewed_tiers": 1.0,
+    "score_teacher_correlation": 0.9441655951029025
+  },
+  "split_candidate_counts": {
+    "validation": 1605,
+    "train": 79896,
+    "test": 18499
+  },
+  "learned_weights": {
+    "best_relevance": 0.4355040785609992,
+    "second_relevance": 0.5440843958544592,
+    "best_production": 0.2681494734644088,
+    "best_retrieval": 0.4585814026891713,
+    "best_evaluation": 0.35874234501945024,
+    "best_ownership": 0.1576586585780963,
+    "best_transferability": 0.45149217972854566,
+    "mission_coverage": 0.39382861741148023,
+    "relevant_project_count": 0.319704136985037,
+    "unique_project_archetypes": -0.10219246772268813,
+    "years_fit": 0.23815053241450654,
+    "product_company_history": 0.25148297803351144,
+    "services_only_history": -0.004946858058007627,
+    "location_fit": 0.06256938502948149,
+    "activity_score": 0.14849017835132633,
+    "open_to_work": 0.05650433534405965,
+    "recruiter_response_rate": 0.09593227703380822,
+    "notice_fit": 0.03037175166585095,
+    "github_fit": 0.10121138542032625,
+    "saved_by_recruiters_log": 0.07867744093578483,
+    "skill_assessment_corroboration": 0.05204710838471218,
+    "contradiction_count": -0.15945702740896484,
+    "disqualifier_count": -0.6445417526186737
+  },
+  "last_training_epoch": {
+    "epoch": 12,
+    "train_pairwise_accuracy": 0.926032,
+    "validation_pairwise_accuracy": 0.968198
+  },
+  "artifacts": {
+    "model": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\models\\pairwise_ranker\\model.json",
+    "ranking": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\reports\\step2_ranked_candidates.csv"
+  }
+}

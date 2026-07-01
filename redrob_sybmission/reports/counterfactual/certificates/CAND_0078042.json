@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0078042",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "PolicyBazaar",
+    "years_of_experience": 4.7,
+    "location": "Dubai"
+  },
+  "baseline": {
+    "rank": 62,
+    "score": 10.49013571,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 83,
+    "keyword_independence": 100,
+    "skill_list_independence": 83,
+    "company_context_independence": 26,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 54
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.38991377,
+      "score_delta": -0.10022194,
+      "rank": 79,
+      "rank_delta": 17
+    },
+    "perfect_keywords_injected": {
+      "score": 10.49013571,
+      "score_delta": 0.0,
+      "rank": 62,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.12402527,
+      "score_delta": -0.36611044,
+      "rank": 99,
+      "rank_delta": 37
+    },
+    "behavior_neutralized": {
+      "score": 10.22567412,
+      "score_delta": -0.26446159,
+      "rank": 91,
+      "rank_delta": 29
+    },
+    "made_unavailable": {
+      "score": 9.63380407,
+      "score_delta": -0.85633164,
+      "rank": 139,
+      "rank_delta": 77
+    },
+    "contradiction_injected": {
+      "score": 9.80186178,
+      "score_delta": -0.68827393,
+      "rank": 129,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.48227334,
+      "score_delta": -1.00786237,
+      "rank": 145,
+      "rank_delta": 83
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.3454615,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 91
+    },
+    "ownership_evidence_removed": {
+      "score": 9.60774545,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 1.82248534,
+      "score_delta": -8.66765037,
+      "rank": 25675,
+      "rank_delta": 25613
+    }
+  }
+}

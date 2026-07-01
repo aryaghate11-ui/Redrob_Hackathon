@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0009024",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Google",
+    "years_of_experience": 5.2,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 100,
+    "score": 10.12268832,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 94,
+    "keyword_independence": 100,
+    "skill_list_independence": 89,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 61,
+    "availability_sensitivity": 42
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.01307057,
+      "score_delta": -0.10961774,
+      "rank": 111,
+      "rank_delta": 11
+    },
+    "perfect_keywords_injected": {
+      "score": 10.12268832,
+      "score_delta": 0.0,
+      "rank": 100,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.12268832,
+      "score_delta": 0.0,
+      "rank": 100,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 9.95674407,
+      "score_delta": -0.16594425,
+      "rank": 117,
+      "rank_delta": 17
+    },
+    "made_unavailable": {
+      "score": 9.23777572,
+      "score_delta": -0.88491259,
+      "rank": 155,
+      "rank_delta": 55
+    },
+    "contradiction_injected": {
+      "score": 9.43441438,
+      "score_delta": -0.68827393,
+      "rank": 147,
+      "rank_delta": 47
+    },
+    "production_evidence_removed": {
+      "score": 9.11482594,
+      "score_delta": -1.00786237,
+      "rank": 156,
+      "rank_delta": 56
+    },
+    "evaluation_evidence_removed": {
+      "score": 8.9780141,
+      "score_delta": -1.14467421,
+      "rank": 159,
+      "rank_delta": 59
+    },
+    "ownership_evidence_removed": {
+      "score": 9.37771179,
+      "score_delta": -0.74497652,
+      "rank": 150,
+      "rank_delta": 50
+    },
+    "all_project_evidence_removed": {
+      "score": 1.59245169,
+      "score_delta": -8.53023663,
+      "rank": 27913,
+      "rank_delta": 27813
+    }
+  }
+}

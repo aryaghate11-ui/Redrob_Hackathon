@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0010257",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Google",
+    "years_of_experience": 6.5,
+    "location": "Noida, Uttar Pradesh"
+  },
+  "baseline": {
+    "rank": 41,
+    "score": 10.73540136,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 95,
+    "keyword_independence": 100,
+    "skill_list_independence": 90,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 61
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.61847577,
+      "score_delta": -0.11692559,
+      "rank": 51,
+      "rank_delta": 10
+    },
+    "perfect_keywords_injected": {
+      "score": 10.73540136,
+      "score_delta": -0.0,
+      "rank": 41,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.73540136,
+      "score_delta": -0.0,
+      "rank": 41,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.35242394,
+      "score_delta": -0.38297742,
+      "rank": 84,
+      "rank_delta": 43
+    },
+    "made_unavailable": {
+      "score": 9.66541744,
+      "score_delta": -1.06998392,
+      "rank": 136,
+      "rank_delta": 95
+    },
+    "contradiction_injected": {
+      "score": 10.04712743,
+      "score_delta": -0.68827393,
+      "rank": 107,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.72753899,
+      "score_delta": -1.00786237,
+      "rank": 133,
+      "rank_delta": 92
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.59072715,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 100
+    },
+    "ownership_evidence_removed": {
+      "score": 9.8530111,
+      "score_delta": -0.88239026,
+      "rank": 123,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 1.82242087,
+      "score_delta": -8.91298049,
+      "rank": 25675,
+      "rank_delta": 25634
+    }
+  }
+}

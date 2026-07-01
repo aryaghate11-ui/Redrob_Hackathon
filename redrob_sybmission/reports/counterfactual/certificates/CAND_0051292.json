@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0051292",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Freshworks",
+    "years_of_experience": 5.2,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 80,
+    "score": 10.38686145,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 67,
+    "availability_sensitivity": 48
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.38686145,
+      "score_delta": -0.0,
+      "rank": 80,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.38686145,
+      "score_delta": -0.0,
+      "rank": 80,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.02075101,
+      "score_delta": -0.36611044,
+      "rank": 110,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 10.15336186,
+      "score_delta": -0.23349959,
+      "rank": 94,
+      "rank_delta": 14
+    },
+    "made_unavailable": {
+      "score": 9.50680709,
+      "score_delta": -0.88005437,
+      "rank": 145,
+      "rank_delta": 65
+    },
+    "contradiction_injected": {
+      "score": 9.69858752,
+      "score_delta": -0.68827393,
+      "rank": 136,
+      "rank_delta": 56
+    },
+    "production_evidence_removed": {
+      "score": 9.37899908,
+      "score_delta": -1.00786237,
+      "rank": 150,
+      "rank_delta": 70
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.24218724,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 74
+    },
+    "ownership_evidence_removed": {
+      "score": 9.50447119,
+      "score_delta": -0.88239026,
+      "rank": 145,
+      "rank_delta": 65
+    },
+    "all_project_evidence_removed": {
+      "score": 1.75238547,
+      "score_delta": -8.63447599,
+      "rank": 26259,
+      "rank_delta": 26179
+    }
+  }
+}

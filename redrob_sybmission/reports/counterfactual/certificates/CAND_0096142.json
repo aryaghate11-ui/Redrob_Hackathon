@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0096142",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "upGrad",
+    "years_of_experience": 5.0,
+    "location": "Hyderabad, Telangana"
+  },
+  "baseline": {
+    "rank": 70,
+    "score": 10.45335298,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 95,
+    "keyword_independence": 100,
+    "skill_list_independence": 90,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 71,
+    "availability_sensitivity": 55
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.38319763,
+      "score_delta": -0.07015536,
+      "rank": 80,
+      "rank_delta": 10
+    },
+    "perfect_keywords_injected": {
+      "score": 10.45335298,
+      "score_delta": 0.0,
+      "rank": 70,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.45335298,
+      "score_delta": 0.0,
+      "rank": 70,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 9.9880406,
+      "score_delta": -0.46531239,
+      "rank": 113,
+      "rank_delta": 43
+    },
+    "made_unavailable": {
+      "score": 9.38842979,
+      "score_delta": -1.06492319,
+      "rank": 150,
+      "rank_delta": 80
+    },
+    "contradiction_injected": {
+      "score": 9.76507905,
+      "score_delta": -0.68827393,
+      "rank": 132,
+      "rank_delta": 62
+    },
+    "production_evidence_removed": {
+      "score": 9.44549061,
+      "score_delta": -1.00786237,
+      "rank": 147,
+      "rank_delta": 77
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.30867877,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 84
+    },
+    "ownership_evidence_removed": {
+      "score": 9.57096272,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 71
+    },
+    "all_project_evidence_removed": {
+      "score": 1.78570262,
+      "score_delta": -8.66765037,
+      "rank": 25977,
+      "rank_delta": 25907
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0018549",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Uber",
+    "years_of_experience": 6.8,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 26,
+    "score": 10.85805498,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 30,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 63
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.78288852,
+      "score_delta": -0.07516645,
+      "rank": 33,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 10.85805498,
+      "score_delta": 0.0,
+      "rank": 26,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.49194454,
+      "score_delta": -0.36611044,
+      "rank": 61,
+      "rank_delta": 35
+    },
+    "behavior_neutralized": {
+      "score": 10.49840888,
+      "score_delta": -0.35964609,
+      "rank": 60,
+      "rank_delta": 34
+    },
+    "made_unavailable": {
+      "score": 9.8383702,
+      "score_delta": -1.01968478,
+      "rank": 125,
+      "rank_delta": 99
+    },
+    "contradiction_injected": {
+      "score": 10.16978104,
+      "score_delta": -0.68827393,
+      "rank": 94,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.8501926,
+      "score_delta": -1.00786237,
+      "rank": 123,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.71338076,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 110
+    },
+    "ownership_evidence_removed": {
+      "score": 9.97566472,
+      "score_delta": -0.88239026,
+      "rank": 116,
+      "rank_delta": 90
+    },
+    "all_project_evidence_removed": {
+      "score": 2.19040461,
+      "score_delta": -8.66765037,
+      "rank": 22629,
+      "rank_delta": 22603
+    }
+  }
+}

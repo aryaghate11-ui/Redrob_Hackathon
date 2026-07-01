@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0041568",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Haptik",
+    "years_of_experience": 5.2,
+    "location": "Sydney"
+  },
+  "baseline": {
+    "rank": 54,
+    "score": 10.575789,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 85,
+    "keyword_independence": 100,
+    "skill_list_independence": 94,
+    "company_context_independence": 24,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.49783861,
+      "score_delta": -0.0779504,
+      "rank": 60,
+      "rank_delta": 6
+    },
+    "perfect_keywords_injected": {
+      "score": 10.575789,
+      "score_delta": 0.0,
+      "rank": 54,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.20967856,
+      "score_delta": -0.36611044,
+      "rank": 92,
+      "rank_delta": 38
+    },
+    "behavior_neutralized": {
+      "score": 10.42577574,
+      "score_delta": -0.15001326,
+      "rank": 75,
+      "rank_delta": 21
+    },
+    "made_unavailable": {
+      "score": 9.62515486,
+      "score_delta": -0.95063415,
+      "rank": 139,
+      "rank_delta": 85
+    },
+    "contradiction_injected": {
+      "score": 9.88751507,
+      "score_delta": -0.68827393,
+      "rank": 120,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.56792663,
+      "score_delta": -1.00786237,
+      "rank": 141,
+      "rank_delta": 87
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.43111479,
+      "score_delta": -1.14467421,
+      "rank": 148,
+      "rank_delta": 94
+    },
+    "ownership_evidence_removed": {
+      "score": 9.69339874,
+      "score_delta": -0.88239026,
+      "rank": 136,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 1.66280851,
+      "score_delta": -8.91298049,
+      "rank": 27149,
+      "rank_delta": 27095
+    }
+  }
+}

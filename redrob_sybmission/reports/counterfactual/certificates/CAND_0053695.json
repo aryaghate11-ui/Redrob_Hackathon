@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0053695",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Meesho",
+    "years_of_experience": 5.8,
+    "location": "Bhubaneswar, Odisha"
+  },
+  "baseline": {
+    "rank": 27,
+    "score": 10.85401295,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 30,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 62
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.85401295,
+      "score_delta": -0.0,
+      "rank": 27,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.85401295,
+      "score_delta": -0.0,
+      "rank": 27,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.48790251,
+      "score_delta": -0.36611044,
+      "rank": 62,
+      "rank_delta": 35
+    },
+    "behavior_neutralized": {
+      "score": 10.49038449,
+      "score_delta": -0.36362846,
+      "rank": 61,
+      "rank_delta": 34
+    },
+    "made_unavailable": {
+      "score": 9.85856213,
+      "score_delta": -0.99545082,
+      "rank": 123,
+      "rank_delta": 96
+    },
+    "contradiction_injected": {
+      "score": 10.16573902,
+      "score_delta": -0.68827393,
+      "rank": 94,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.84615058,
+      "score_delta": -1.00786237,
+      "rank": 124,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.70933874,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 109
+    },
+    "ownership_evidence_removed": {
+      "score": 9.97162269,
+      "score_delta": -0.88239026,
+      "rank": 116,
+      "rank_delta": 89
+    },
+    "all_project_evidence_removed": {
+      "score": 1.94103246,
+      "score_delta": -8.91298049,
+      "rank": 24760,
+      "rank_delta": 24733
+    }
+  }
+}

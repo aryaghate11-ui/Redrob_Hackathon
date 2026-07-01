@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0043228",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.8,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 65,
+    "score": 10.47062579,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 83,
+    "keyword_independence": 100,
+    "skill_list_independence": 84,
+    "company_context_independence": 24,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 51
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.37318779,
+      "score_delta": -0.09743799,
+      "rank": 81,
+      "rank_delta": 16
+    },
+    "perfect_keywords_injected": {
+      "score": 10.47062579,
+      "score_delta": -0.0,
+      "rank": 65,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.10451535,
+      "score_delta": -0.36611044,
+      "rank": 103,
+      "rank_delta": 38
+    },
+    "behavior_neutralized": {
+      "score": 10.35960836,
+      "score_delta": -0.11101743,
+      "rank": 83,
+      "rank_delta": 18
+    },
+    "made_unavailable": {
+      "score": 9.6778456,
+      "score_delta": -0.79278018,
+      "rank": 136,
+      "rank_delta": 71
+    },
+    "contradiction_injected": {
+      "score": 9.78235185,
+      "score_delta": -0.68827393,
+      "rank": 130,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.46276341,
+      "score_delta": -1.00786237,
+      "rank": 146,
+      "rank_delta": 81
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.32595157,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 88
+    },
+    "ownership_evidence_removed": {
+      "score": 9.58823553,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 76
+    },
+    "all_project_evidence_removed": {
+      "score": 1.8361498,
+      "score_delta": -8.63447599,
+      "rank": 25555,
+      "rank_delta": 25490
+    }
+  }
+}

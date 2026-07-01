@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0030953",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Nykaa",
+    "years_of_experience": 7.8,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 14,
+    "score": 11.06880263,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 42,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 53
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.96858069,
+      "score_delta": -0.10022194,
+      "rank": 18,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 11.06880263,
+      "score_delta": 0.0,
+      "rank": 14,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.70269219,
+      "score_delta": -0.36611044,
+      "rank": 43,
+      "rank_delta": 29
+    },
+    "behavior_neutralized": {
+      "score": 11.02740705,
+      "score_delta": -0.04139558,
+      "rank": 16,
+      "rank_delta": 2
+    },
+    "made_unavailable": {
+      "score": 10.27922358,
+      "score_delta": -0.78957905,
+      "rank": 89,
+      "rank_delta": 75
+    },
+    "contradiction_injected": {
+      "score": 10.3805287,
+      "score_delta": -0.68827393,
+      "rank": 80,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 10.06094026,
+      "score_delta": -1.00786237,
+      "rank": 105,
+      "rank_delta": 91
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.92412842,
+      "score_delta": -1.14467421,
+      "rank": 119,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 10.18641237,
+      "score_delta": -0.88239026,
+      "rank": 92,
+      "rank_delta": 78
+    },
+    "all_project_evidence_removed": {
+      "score": 1.66516188,
+      "score_delta": -9.40364075,
+      "rank": 27126,
+      "rank_delta": 27112
+    }
+  }
+}

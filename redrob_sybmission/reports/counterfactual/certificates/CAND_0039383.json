@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0039383",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Meesho",
+    "years_of_experience": 7.1,
+    "location": "Gurgaon, Haryana"
+  },
+  "baseline": {
+    "rank": 6,
+    "score": 11.18210197,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 52,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 66,
+    "availability_sensitivity": 58
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.07248422,
+      "score_delta": -0.10961774,
+      "rank": 13,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 11.18210197,
+      "score_delta": 0.0,
+      "rank": 6,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.81599153,
+      "score_delta": -0.36611044,
+      "rank": 30,
+      "rank_delta": 24
+    },
+    "behavior_neutralized": {
+      "score": 10.78695694,
+      "score_delta": -0.39514503,
+      "rank": 33,
+      "rank_delta": 27
+    },
+    "made_unavailable": {
+      "score": 10.20207854,
+      "score_delta": -0.98002343,
+      "rank": 92,
+      "rank_delta": 86
+    },
+    "contradiction_injected": {
+      "score": 10.49382803,
+      "score_delta": -0.68827393,
+      "rank": 60,
+      "rank_delta": 54
+    },
+    "production_evidence_removed": {
+      "score": 10.17423959,
+      "score_delta": -1.00786237,
+      "rank": 94,
+      "rank_delta": 88
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.03742776,
+      "score_delta": -1.14467421,
+      "rank": 107,
+      "rank_delta": 101
+    },
+    "ownership_evidence_removed": {
+      "score": 10.29971171,
+      "score_delta": -0.88239026,
+      "rank": 86,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 2.26912147,
+      "score_delta": -8.91298049,
+      "rank": 21865,
+      "rank_delta": 21859
+    }
+  }
+}

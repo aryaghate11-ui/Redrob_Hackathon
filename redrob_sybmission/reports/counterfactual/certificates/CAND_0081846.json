@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0081846",
+  "profile": {
+    "current_title": "Lead AI Engineer",
+    "current_company": "Razorpay",
+    "years_of_experience": 6.7,
+    "location": "Jaipur, Rajasthan"
+  },
+  "baseline": {
+    "rank": 23,
+    "score": 10.91792016,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 98,
+    "company_context_independence": 34,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 66
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.85945736,
+      "score_delta": -0.0584628,
+      "rank": 25,
+      "rank_delta": 2
+    },
+    "perfect_keywords_injected": {
+      "score": 10.91792016,
+      "score_delta": 0.0,
+      "rank": 23,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.55180972,
+      "score_delta": -0.36611044,
+      "rank": 56,
+      "rank_delta": 33
+    },
+    "behavior_neutralized": {
+      "score": 10.47983235,
+      "score_delta": -0.43808781,
+      "rank": 62,
+      "rank_delta": 39
+    },
+    "made_unavailable": {
+      "score": 9.76336102,
+      "score_delta": -1.15455914,
+      "rank": 132,
+      "rank_delta": 109
+    },
+    "contradiction_injected": {
+      "score": 10.22964622,
+      "score_delta": -0.68827393,
+      "rank": 91,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.91005778,
+      "score_delta": -1.00786237,
+      "rank": 119,
+      "rank_delta": 96
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.77324595,
+      "score_delta": -1.14467421,
+      "rank": 130,
+      "rank_delta": 107
+    },
+    "ownership_evidence_removed": {
+      "score": 10.0355299,
+      "score_delta": -0.88239026,
+      "rank": 107,
+      "rank_delta": 84
+    },
+    "all_project_evidence_removed": {
+      "score": 2.25026979,
+      "score_delta": -8.66765037,
+      "rank": 22039,
+      "rank_delta": 22016
+    }
+  }
+}

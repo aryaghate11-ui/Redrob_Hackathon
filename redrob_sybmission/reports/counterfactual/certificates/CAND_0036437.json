@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0036437",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Rephrase.ai",
+    "years_of_experience": 4.8,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 34,
+    "score": 10.77012329,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 83,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 12,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 59
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.71166049,
+      "score_delta": -0.0584628,
+      "rank": 41,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 10.77012329,
+      "score_delta": -0.0,
+      "rank": 34,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.40401285,
+      "score_delta": -0.36611044,
+      "rank": 78,
+      "rank_delta": 44
+    },
+    "behavior_neutralized": {
+      "score": 10.57145916,
+      "score_delta": -0.19866413,
+      "rank": 54,
+      "rank_delta": 20
+    },
+    "made_unavailable": {
+      "score": 9.85873336,
+      "score_delta": -0.91138993,
+      "rank": 123,
+      "rank_delta": 89
+    },
+    "contradiction_injected": {
+      "score": 10.08184935,
+      "score_delta": -0.68827393,
+      "rank": 104,
+      "rank_delta": 70
+    },
+    "production_evidence_removed": {
+      "score": 9.76226091,
+      "score_delta": -1.00786237,
+      "rank": 132,
+      "rank_delta": 98
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.62544907,
+      "score_delta": -1.14467421,
+      "rank": 139,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 9.88773303,
+      "score_delta": -0.88239026,
+      "rank": 120,
+      "rank_delta": 86
+    },
+    "all_project_evidence_removed": {
+      "score": 1.85714279,
+      "score_delta": -8.91298049,
+      "rank": 25385,
+      "rank_delta": 25351
+    }
+  }
+}

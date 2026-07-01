@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0087630",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Vedantu",
+    "years_of_experience": 7.2,
+    "location": "Gurgaon, Haryana"
+  },
+  "baseline": {
+    "rank": 45,
+    "score": 10.69962158,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 94,
+    "company_context_independence": 20,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 51
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.62167118,
+      "score_delta": -0.0779504,
+      "rank": 51,
+      "rank_delta": 6
+    },
+    "perfect_keywords_injected": {
+      "score": 10.69962158,
+      "score_delta": -0.0,
+      "rank": 45,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.33351114,
+      "score_delta": -0.36611044,
+      "rank": 85,
+      "rank_delta": 40
+    },
+    "behavior_neutralized": {
+      "score": 10.69880644,
+      "score_delta": -0.00081514,
+      "rank": 45,
+      "rank_delta": 0
+    },
+    "made_unavailable": {
+      "score": 9.95611641,
+      "score_delta": -0.74350517,
+      "rank": 117,
+      "rank_delta": 72
+    },
+    "contradiction_injected": {
+      "score": 10.01134764,
+      "score_delta": -0.68827393,
+      "rank": 111,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.6917592,
+      "score_delta": -1.00786237,
+      "rank": 136,
+      "rank_delta": 91
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.55494736,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 96
+    },
+    "ownership_evidence_removed": {
+      "score": 9.95464505,
+      "score_delta": -0.74497652,
+      "rank": 117,
+      "rank_delta": 72
+    },
+    "all_project_evidence_removed": {
+      "score": 1.92405482,
+      "score_delta": -8.77556676,
+      "rank": 24906,
+      "rank_delta": 24861
+    }
+  }
+}

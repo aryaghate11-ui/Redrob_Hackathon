@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0081686",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Netflix",
+    "years_of_experience": 6.0,
+    "location": "Austin"
+  },
+  "baseline": {
+    "rank": 36,
+    "score": 10.76854754,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 83,
+    "keyword_independence": 100,
+    "skill_list_independence": 90,
+    "company_context_independence": 16,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 59
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.69059714,
+      "score_delta": -0.0779504,
+      "rank": 46,
+      "rank_delta": 10
+    },
+    "perfect_keywords_injected": {
+      "score": 10.76854754,
+      "score_delta": -0.0,
+      "rank": 36,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.4024371,
+      "score_delta": -0.36611044,
+      "rank": 78,
+      "rank_delta": 42
+    },
+    "behavior_neutralized": {
+      "score": 10.49962788,
+      "score_delta": -0.26891966,
+      "rank": 60,
+      "rank_delta": 24
+    },
+    "made_unavailable": {
+      "score": 9.8148687,
+      "score_delta": -0.95367884,
+      "rank": 126,
+      "rank_delta": 90
+    },
+    "contradiction_injected": {
+      "score": 10.0802736,
+      "score_delta": -0.68827393,
+      "rank": 104,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.76068516,
+      "score_delta": -1.00786237,
+      "rank": 132,
+      "rank_delta": 96
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.62387333,
+      "score_delta": -1.14467421,
+      "rank": 139,
+      "rank_delta": 103
+    },
+    "ownership_evidence_removed": {
+      "score": 9.88615728,
+      "score_delta": -0.88239026,
+      "rank": 120,
+      "rank_delta": 84
+    },
+    "all_project_evidence_removed": {
+      "score": 1.85556704,
+      "score_delta": -8.91298049,
+      "rank": 25393,
+      "rank_delta": 25357
+    }
+  }
+}

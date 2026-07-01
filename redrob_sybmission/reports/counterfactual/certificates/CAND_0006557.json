@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0006557",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Paytm",
+    "years_of_experience": 7.9,
+    "location": "Jaipur, Rajasthan"
+  },
+  "baseline": {
+    "rank": 88,
+    "score": 10.28611796,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 65,
+    "availability_sensitivity": 48
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.20816757,
+      "score_delta": -0.0779504,
+      "rank": 92,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 10.28611796,
+      "score_delta": -0.0,
+      "rank": 88,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.28611796,
+      "score_delta": -0.0,
+      "rank": 88,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.10687901,
+      "score_delta": -0.17923895,
+      "rank": 103,
+      "rank_delta": 15
+    },
+    "made_unavailable": {
+      "score": 9.30625812,
+      "score_delta": -0.97985984,
+      "rank": 154,
+      "rank_delta": 66
+    },
+    "contradiction_injected": {
+      "score": 9.59784403,
+      "score_delta": -0.68827393,
+      "rank": 141,
+      "rank_delta": 53
+    },
+    "production_evidence_removed": {
+      "score": 9.27825559,
+      "score_delta": -1.00786237,
+      "rank": 154,
+      "rank_delta": 66
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.14144375,
+      "score_delta": -1.14467421,
+      "rank": 155,
+      "rank_delta": 67
+    },
+    "ownership_evidence_removed": {
+      "score": 9.4037277,
+      "score_delta": -0.88239026,
+      "rank": 150,
+      "rank_delta": 62
+    },
+    "all_project_evidence_removed": {
+      "score": 1.61846759,
+      "score_delta": -8.66765037,
+      "rank": 27619,
+      "rank_delta": 27531
+    }
+  }
+}

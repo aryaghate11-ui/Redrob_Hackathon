@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0075249",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Zomato",
+    "years_of_experience": 6.2,
+    "location": "Ahmedabad, Gujarat"
+  },
+  "baseline": {
+    "rank": 81,
+    "score": 10.37477897,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 92,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 67,
+    "availability_sensitivity": 51
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.24950155,
+      "score_delta": -0.12527742,
+      "rank": 89,
+      "rank_delta": 8
+    },
+    "perfect_keywords_injected": {
+      "score": 10.37477897,
+      "score_delta": -0.0,
+      "rank": 81,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.00866853,
+      "score_delta": -0.36611044,
+      "rank": 111,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 10.06466816,
+      "score_delta": -0.31011081,
+      "rank": 105,
+      "rank_delta": 24
+    },
+    "made_unavailable": {
+      "score": 9.3559376,
+      "score_delta": -1.01884137,
+      "rank": 152,
+      "rank_delta": 71
+    },
+    "contradiction_injected": {
+      "score": 9.68650503,
+      "score_delta": -0.68827393,
+      "rank": 136,
+      "rank_delta": 55
+    },
+    "production_evidence_removed": {
+      "score": 9.3669166,
+      "score_delta": -1.00786237,
+      "rank": 151,
+      "rank_delta": 70
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.23010476,
+      "score_delta": -1.14467421,
+      "rank": 155,
+      "rank_delta": 74
+    },
+    "ownership_evidence_removed": {
+      "score": 9.62980245,
+      "score_delta": -0.74497652,
+      "rank": 139,
+      "rank_delta": 58
+    },
+    "all_project_evidence_removed": {
+      "score": 2.12304685,
+      "score_delta": -8.25173212,
+      "rank": 23276,
+      "rank_delta": 23195
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0079387",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 6.9,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 28,
+    "score": 10.85340605,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 92,
+    "company_context_independence": 32,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 65
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.76571186,
+      "score_delta": -0.08769419,
+      "rank": 36,
+      "rank_delta": 8
+    },
+    "perfect_keywords_injected": {
+      "score": 10.85340605,
+      "score_delta": -0.0,
+      "rank": 28,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.48729561,
+      "score_delta": -0.36611044,
+      "rank": 62,
+      "rank_delta": 34
+    },
+    "behavior_neutralized": {
+      "score": 10.37685036,
+      "score_delta": -0.47655569,
+      "rank": 80,
+      "rank_delta": 52
+    },
+    "made_unavailable": {
+      "score": 9.73628843,
+      "score_delta": -1.11711762,
+      "rank": 133,
+      "rank_delta": 105
+    },
+    "contradiction_injected": {
+      "score": 10.16513211,
+      "score_delta": -0.68827393,
+      "rank": 94,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.84554367,
+      "score_delta": -1.00786237,
+      "rank": 124,
+      "rank_delta": 96
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.70873184,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 108
+    },
+    "ownership_evidence_removed": {
+      "score": 10.10842953,
+      "score_delta": -0.74497652,
+      "rank": 103,
+      "rank_delta": 75
+    },
+    "all_project_evidence_removed": {
+      "score": 2.11101367,
+      "score_delta": -8.74239238,
+      "rank": 23376,
+      "rank_delta": 23348
+    }
+  }
+}

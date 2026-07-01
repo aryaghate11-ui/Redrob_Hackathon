@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0099401",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Dream11",
+    "years_of_experience": 7.7,
+    "location": "Ahmedabad, Gujarat"
+  },
+  "baseline": {
+    "rank": 71,
+    "score": 10.44967387,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 70,
+    "availability_sensitivity": 48
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.44967387,
+      "score_delta": 0.0,
+      "rank": 71,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.44967387,
+      "score_delta": 0.0,
+      "rank": 71,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.44967387,
+      "score_delta": 0.0,
+      "rank": 71,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.44908803,
+      "score_delta": -0.00058584,
+      "rank": 71,
+      "rank_delta": 0
+    },
+    "made_unavailable": {
+      "score": 9.70864532,
+      "score_delta": -0.74102856,
+      "rank": 136,
+      "rank_delta": 65
+    },
+    "contradiction_injected": {
+      "score": 9.76139994,
+      "score_delta": -0.68827393,
+      "rank": 132,
+      "rank_delta": 61
+    },
+    "production_evidence_removed": {
+      "score": 9.4418115,
+      "score_delta": -1.00786237,
+      "rank": 147,
+      "rank_delta": 76
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.30499966,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 83
+    },
+    "ownership_evidence_removed": {
+      "score": 9.56728361,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 70
+    },
+    "all_project_evidence_removed": {
+      "score": 1.29136325,
+      "score_delta": -9.15831062,
+      "rank": 32002,
+      "rank_delta": 31931
+    }
+  }
+}

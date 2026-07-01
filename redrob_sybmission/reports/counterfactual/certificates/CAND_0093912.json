@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0093912",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Razorpay",
+    "years_of_experience": 5.3,
+    "location": "Chandigarh, Chandigarh"
+  },
+  "baseline": {
+    "rank": 12,
+    "score": 11.08110426,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 42,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 65
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.05412144,
+      "score_delta": -0.02698283,
+      "rank": 16,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 11.08110426,
+      "score_delta": -0.0,
+      "rank": 12,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.71499382,
+      "score_delta": -0.36611044,
+      "rank": 41,
+      "rank_delta": 29
+    },
+    "behavior_neutralized": {
+      "score": 10.55177525,
+      "score_delta": -0.52932901,
+      "rank": 56,
+      "rank_delta": 44
+    },
+    "made_unavailable": {
+      "score": 9.95466147,
+      "score_delta": -1.1264428,
+      "rank": 117,
+      "rank_delta": 105
+    },
+    "contradiction_injected": {
+      "score": 10.39283033,
+      "score_delta": -0.68827393,
+      "rank": 79,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 10.07324189,
+      "score_delta": -1.00786237,
+      "rank": 105,
+      "rank_delta": 93
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.93643005,
+      "score_delta": -1.14467421,
+      "rank": 117,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 10.198714,
+      "score_delta": -0.88239026,
+      "rank": 92,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 2.16812377,
+      "score_delta": -8.91298049,
+      "rank": 22860,
+      "rank_delta": 22848
+    }
+  }
+}

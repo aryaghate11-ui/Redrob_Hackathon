@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0086022",
+  "profile": {
+    "current_title": "Senior Applied Scientist",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 5.3,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 64,
+    "score": 10.47117077,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 94,
+    "keyword_independence": 100,
+    "skill_list_independence": 84,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 56
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.37886109,
+      "score_delta": -0.09230968,
+      "rank": 80,
+      "rank_delta": 16
+    },
+    "perfect_keywords_injected": {
+      "score": 10.47117077,
+      "score_delta": -0.0,
+      "rank": 64,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.47117077,
+      "score_delta": -0.0,
+      "rank": 64,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.0515021,
+      "score_delta": -0.41966867,
+      "rank": 107,
+      "rank_delta": 43
+    },
+    "made_unavailable": {
+      "score": 9.43865708,
+      "score_delta": -1.03251369,
+      "rank": 147,
+      "rank_delta": 83
+    },
+    "contradiction_injected": {
+      "score": 9.78289683,
+      "score_delta": -0.68827393,
+      "rank": 130,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.46330839,
+      "score_delta": -1.00786237,
+      "rank": 146,
+      "rank_delta": 82
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.32649656,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 89
+    },
+    "ownership_evidence_removed": {
+      "score": 9.58878051,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 77
+    },
+    "all_project_evidence_removed": {
+      "score": 1.8035204,
+      "score_delta": -8.66765037,
+      "rank": 25829,
+      "rank_delta": 25765
+    }
+  }
+}

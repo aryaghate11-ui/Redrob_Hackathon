@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0084819",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Dream11",
+    "years_of_experience": 4.5,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 98,
+    "score": 10.13507137,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 92,
+    "company_context_independence": 32,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 62,
+    "availability_sensitivity": 45
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.05253566,
+      "score_delta": -0.08253571,
+      "rank": 106,
+      "rank_delta": 8
+    },
+    "perfect_keywords_injected": {
+      "score": 10.13507137,
+      "score_delta": 0.0,
+      "rank": 98,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 9.76896093,
+      "score_delta": -0.36611044,
+      "rank": 132,
+      "rank_delta": 34
+    },
+    "behavior_neutralized": {
+      "score": 9.70984178,
+      "score_delta": -0.4252296,
+      "rank": 136,
+      "rank_delta": 38
+    },
+    "made_unavailable": {
+      "score": 9.04805518,
+      "score_delta": -1.08701619,
+      "rank": 157,
+      "rank_delta": 59
+    },
+    "contradiction_injected": {
+      "score": 9.44679744,
+      "score_delta": -0.68827393,
+      "rank": 147,
+      "rank_delta": 49
+    },
+    "production_evidence_removed": {
+      "score": 9.127209,
+      "score_delta": -1.00786237,
+      "rank": 155,
+      "rank_delta": 57
+    },
+    "evaluation_evidence_removed": {
+      "score": 8.99039716,
+      "score_delta": -1.14467421,
+      "rank": 158,
+      "rank_delta": 60
+    },
+    "ownership_evidence_removed": {
+      "score": 9.25268111,
+      "score_delta": -0.88239026,
+      "rank": 154,
+      "rank_delta": 56
+    },
+    "all_project_evidence_removed": {
+      "score": 2.02443003,
+      "score_delta": -8.11064135,
+      "rank": 24138,
+      "rank_delta": 24040
+    }
+  }
+}

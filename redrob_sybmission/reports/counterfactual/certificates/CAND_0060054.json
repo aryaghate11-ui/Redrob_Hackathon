@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0060054",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Mad Street Den",
+    "years_of_experience": 6.4,
+    "location": "Jaipur, Rajasthan"
+  },
+  "baseline": {
+    "rank": 42,
+    "score": 10.70988407,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 16,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 58
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.6748064,
+      "score_delta": -0.03507768,
+      "rank": 46,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 10.70988407,
+      "score_delta": 0.0,
+      "rank": 42,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.34377363,
+      "score_delta": -0.36611044,
+      "rank": 84,
+      "rank_delta": 42
+    },
+    "behavior_neutralized": {
+      "score": 10.60970718,
+      "score_delta": -0.10017689,
+      "rank": 51,
+      "rank_delta": 9
+    },
+    "made_unavailable": {
+      "score": 9.8090863,
+      "score_delta": -0.90079778,
+      "rank": 128,
+      "rank_delta": 86
+    },
+    "contradiction_injected": {
+      "score": 10.02161014,
+      "score_delta": -0.68827393,
+      "rank": 110,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.7020217,
+      "score_delta": -1.00786237,
+      "rank": 136,
+      "rank_delta": 94
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.56520986,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 99
+    },
+    "ownership_evidence_removed": {
+      "score": 9.82749381,
+      "score_delta": -0.88239026,
+      "rank": 125,
+      "rank_delta": 83
+    },
+    "all_project_evidence_removed": {
+      "score": 1.79690358,
+      "score_delta": -8.91298049,
+      "rank": 25887,
+      "rank_delta": 25845
+    }
+  }
+}

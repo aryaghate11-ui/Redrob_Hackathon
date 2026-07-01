@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0012957",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Razorpay",
+    "years_of_experience": 4.9,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 59,
+    "score": 10.53118265,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 85,
+    "company_context_independence": 30,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 54
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.43764218,
+      "score_delta": -0.09354047,
+      "rank": 74,
+      "rank_delta": 15
+    },
+    "perfect_keywords_injected": {
+      "score": 10.53118265,
+      "score_delta": 0.0,
+      "rank": 59,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.16507221,
+      "score_delta": -0.36611044,
+      "rank": 94,
+      "rank_delta": 35
+    },
+    "behavior_neutralized": {
+      "score": 10.3733196,
+      "score_delta": -0.15786306,
+      "rank": 81,
+      "rank_delta": 22
+    },
+    "made_unavailable": {
+      "score": 9.70628926,
+      "score_delta": -0.8248934,
+      "rank": 136,
+      "rank_delta": 77
+    },
+    "contradiction_injected": {
+      "score": 9.84290872,
+      "score_delta": -0.68827393,
+      "rank": 124,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.52332028,
+      "score_delta": -1.00786237,
+      "rank": 143,
+      "rank_delta": 84
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.38650844,
+      "score_delta": -1.14467421,
+      "rank": 150,
+      "rank_delta": 91
+    },
+    "ownership_evidence_removed": {
+      "score": 9.64879239,
+      "score_delta": -0.88239026,
+      "rank": 138,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 1.86353229,
+      "score_delta": -8.66765037,
+      "rank": 25326,
+      "rank_delta": 25267
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0008425",
+  "profile": {
+    "current_title": "Senior NLP Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 7.8,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 22,
+    "score": 10.92304198,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_E3C7EB061150"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 98,
+    "company_context_independence": 32,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 63
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.90240806,
+      "score_delta": -0.02063393,
+      "rank": 24,
+      "rank_delta": 2
+    },
+    "perfect_keywords_injected": {
+      "score": 10.92304198,
+      "score_delta": 0.0,
+      "rank": 22,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.55693154,
+      "score_delta": -0.36611044,
+      "rank": 56,
+      "rank_delta": 34
+    },
+    "behavior_neutralized": {
+      "score": 10.53921592,
+      "score_delta": -0.38382607,
+      "rank": 58,
+      "rank_delta": 36
+    },
+    "made_unavailable": {
+      "score": 9.87168618,
+      "score_delta": -1.05135581,
+      "rank": 122,
+      "rank_delta": 100
+    },
+    "contradiction_injected": {
+      "score": 10.23476805,
+      "score_delta": -0.68827393,
+      "rank": 91,
+      "rank_delta": 69
+    },
+    "production_evidence_removed": {
+      "score": 9.91517961,
+      "score_delta": -1.00786237,
+      "rank": 119,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.77836777,
+      "score_delta": -1.14467421,
+      "rank": 130,
+      "rank_delta": 108
+    },
+    "ownership_evidence_removed": {
+      "score": 10.04065172,
+      "score_delta": -0.88239026,
+      "rank": 107,
+      "rank_delta": 85
+    },
+    "all_project_evidence_removed": {
+      "score": 2.01006149,
+      "score_delta": -8.91298049,
+      "rank": 24237,
+      "rank_delta": 24215
+    }
+  }
+}

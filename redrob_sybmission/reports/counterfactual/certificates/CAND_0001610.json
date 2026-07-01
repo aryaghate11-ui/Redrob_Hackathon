@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0001610",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Dream11",
+    "years_of_experience": 3.0,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 61,
+    "score": 10.49214671,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 24,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.49214671,
+      "score_delta": 0.0,
+      "rank": 61,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.49214671,
+      "score_delta": 0.0,
+      "rank": 61,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.12603627,
+      "score_delta": -0.36611044,
+      "rank": 99,
+      "rank_delta": 38
+    },
+    "behavior_neutralized": {
+      "score": 10.20763212,
+      "score_delta": -0.28451459,
+      "rank": 92,
+      "rank_delta": 31
+    },
+    "made_unavailable": {
+      "score": 9.50689202,
+      "score_delta": -0.9852547,
+      "rank": 145,
+      "rank_delta": 84
+    },
+    "contradiction_injected": {
+      "score": 9.80387278,
+      "score_delta": -0.68827393,
+      "rank": 129,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.48428434,
+      "score_delta": -1.00786237,
+      "rank": 145,
+      "rank_delta": 84
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.3474725,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 92
+    },
+    "ownership_evidence_removed": {
+      "score": 9.60975645,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 1.57916622,
+      "score_delta": -8.91298049,
+      "rank": 28064,
+      "rank_delta": 28003
+    }
+  }
+}

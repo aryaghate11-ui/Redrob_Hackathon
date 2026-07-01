@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0019480",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Meesho",
+    "years_of_experience": 2.8,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 75,
+    "score": 10.43439384,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 95,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 68,
+    "availability_sensitivity": 55
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.38428287,
+      "score_delta": -0.05011097,
+      "rank": 80,
+      "rank_delta": 5
+    },
+    "perfect_keywords_injected": {
+      "score": 10.43439384,
+      "score_delta": -0.0,
+      "rank": 75,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.0682834,
+      "score_delta": -0.36611044,
+      "rank": 105,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 9.87528958,
+      "score_delta": -0.55910426,
+      "rank": 120,
+      "rank_delta": 45
+    },
+    "made_unavailable": {
+      "score": 9.24896066,
+      "score_delta": -1.18543318,
+      "rank": 154,
+      "rank_delta": 79
+    },
+    "contradiction_injected": {
+      "score": 9.74611991,
+      "score_delta": -0.68827393,
+      "rank": 132,
+      "rank_delta": 57
+    },
+    "production_evidence_removed": {
+      "score": 9.42653147,
+      "score_delta": -1.00786237,
+      "rank": 148,
+      "rank_delta": 73
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.28971963,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 79
+    },
+    "ownership_evidence_removed": {
+      "score": 9.55200358,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 66
+    },
+    "all_project_evidence_removed": {
+      "score": 1.27608322,
+      "score_delta": -9.15831062,
+      "rank": 32227,
+      "rank_delta": 32152
+    }
+  }
+}

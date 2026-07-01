@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0037980",
+  "profile": {
+    "current_title": "Senior Applied Scientist",
+    "current_company": "Niramai",
+    "years_of_experience": 9.0,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 57,
+    "score": 10.54924521,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_CF92524D1B48"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 59
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.53254156,
+      "score_delta": -0.01670366,
+      "rank": 58,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 10.54924521,
+      "score_delta": -0.0,
+      "rank": 57,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.54924521,
+      "score_delta": -0.0,
+      "rank": 57,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.18755912,
+      "score_delta": -0.36168609,
+      "rank": 92,
+      "rank_delta": 35
+    },
+    "made_unavailable": {
+      "score": 9.46384644,
+      "score_delta": -1.08539878,
+      "rank": 146,
+      "rank_delta": 89
+    },
+    "contradiction_injected": {
+      "score": 9.86097128,
+      "score_delta": -0.68827393,
+      "rank": 123,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.54138284,
+      "score_delta": -1.00786237,
+      "rank": 142,
+      "rank_delta": 85
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.404571,
+      "score_delta": -1.14467421,
+      "rank": 150,
+      "rank_delta": 93
+    },
+    "ownership_evidence_removed": {
+      "score": 9.66685495,
+      "score_delta": -0.88239026,
+      "rank": 136,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 1.63626472,
+      "score_delta": -8.91298049,
+      "rank": 27440,
+      "rank_delta": 27383
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0041610",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 6.7,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 7,
+    "score": 11.18029457,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 89,
+    "keyword_independence": 100,
+    "skill_list_independence": 97,
+    "company_context_independence": 54,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 66,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.13902671,
+      "score_delta": -0.04126786,
+      "rank": 10,
+      "rank_delta": 3
+    },
+    "perfect_keywords_injected": {
+      "score": 11.18029457,
+      "score_delta": 0.0,
+      "rank": 7,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.81418413,
+      "score_delta": -0.36611044,
+      "rank": 30,
+      "rank_delta": 23
+    },
+    "behavior_neutralized": {
+      "score": 10.87124053,
+      "score_delta": -0.30905403,
+      "rank": 24,
+      "rank_delta": 17
+    },
+    "made_unavailable": {
+      "score": 10.20071437,
+      "score_delta": -0.9795802,
+      "rank": 92,
+      "rank_delta": 85
+    },
+    "contradiction_injected": {
+      "score": 10.49202063,
+      "score_delta": -0.68827393,
+      "rank": 61,
+      "rank_delta": 54
+    },
+    "production_evidence_removed": {
+      "score": 10.17243219,
+      "score_delta": -1.00786237,
+      "rank": 94,
+      "rank_delta": 87
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.03562035,
+      "score_delta": -1.14467421,
+      "rank": 107,
+      "rank_delta": 100
+    },
+    "ownership_evidence_removed": {
+      "score": 10.29790431,
+      "score_delta": -0.88239026,
+      "rank": 86,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 2.02198394,
+      "score_delta": -9.15831062,
+      "rank": 24160,
+      "rank_delta": 24153
+    }
+  }
+}

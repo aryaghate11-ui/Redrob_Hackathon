@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0007412",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Zoho",
+    "years_of_experience": 7.4,
+    "location": "Noida, Uttar Pradesh"
+  },
+  "baseline": {
+    "rank": 2,
+    "score": 11.50521096,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 92,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 84,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 43,
+    "availability_sensitivity": 51
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.44674817,
+      "score_delta": -0.0584628,
+      "rank": 2,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.50521096,
+      "score_delta": -0.0,
+      "rank": 2,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 11.13910052,
+      "score_delta": -0.36611044,
+      "rank": 10,
+      "rank_delta": 8
+    },
+    "behavior_neutralized": {
+      "score": 11.15407366,
+      "score_delta": -0.3511373,
+      "rank": 8,
+      "rank_delta": 6
+    },
+    "made_unavailable": {
+      "score": 10.44334548,
+      "score_delta": -1.06186548,
+      "rank": 73,
+      "rank_delta": 71
+    },
+    "contradiction_injected": {
+      "score": 10.81693703,
+      "score_delta": -0.68827393,
+      "rank": 30,
+      "rank_delta": 28
+    },
+    "production_evidence_removed": {
+      "score": 10.49734859,
+      "score_delta": -1.00786237,
+      "rank": 60,
+      "rank_delta": 58
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.36053675,
+      "score_delta": -1.14467421,
+      "rank": 83,
+      "rank_delta": 81
+    },
+    "ownership_evidence_removed": {
+      "score": 10.6228207,
+      "score_delta": -0.88239026,
+      "rank": 51,
+      "rank_delta": 49
+    },
+    "all_project_evidence_removed": {
+      "score": 2.10157021,
+      "score_delta": -9.40364075,
+      "rank": 23458,
+      "rank_delta": 23456
+    }
+  }
+}

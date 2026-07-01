@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0093193",
+  "profile": {
+    "current_title": "Senior Machine Learning Engineer",
+    "current_company": "Niramai",
+    "years_of_experience": 7.9,
+    "location": "Bangalore, Karnataka"
+  },
+  "baseline": {
+    "rank": 91,
+    "score": 10.23877453,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_BB08D1841FC6"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 63,
+    "availability_sensitivity": 47
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.23877453,
+      "score_delta": 0.0,
+      "rank": 91,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.23877453,
+      "score_delta": 0.0,
+      "rank": 91,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.23877453,
+      "score_delta": 0.0,
+      "rank": 91,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 9.91347512,
+      "score_delta": -0.32529941,
+      "rank": 119,
+      "rank_delta": 28
+    },
+    "made_unavailable": {
+      "score": 9.1982523,
+      "score_delta": -1.04052222,
+      "rank": 155,
+      "rank_delta": 64
+    },
+    "contradiction_injected": {
+      "score": 9.55050059,
+      "score_delta": -0.68827393,
+      "rank": 141,
+      "rank_delta": 50
+    },
+    "production_evidence_removed": {
+      "score": 9.23091215,
+      "score_delta": -1.00786237,
+      "rank": 155,
+      "rank_delta": 64
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.28397084,
+      "score_delta": -0.95480369,
+      "rank": 154,
+      "rank_delta": 63
+    },
+    "ownership_evidence_removed": {
+      "score": 9.35638427,
+      "score_delta": -0.88239026,
+      "rank": 152,
+      "rank_delta": 61
+    },
+    "all_project_evidence_removed": {
+      "score": 1.76099469,
+      "score_delta": -8.47777984,
+      "rank": 26190,
+      "rank_delta": 26099
+    }
+  }
+}

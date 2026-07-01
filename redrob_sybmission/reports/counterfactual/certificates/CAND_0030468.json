@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0030468",
+  "profile": {
+    "current_title": "Senior Applied Scientist",
+    "current_company": "Swiggy",
+    "years_of_experience": 5.4,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 46,
+    "score": 10.69447778,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_E51A75098E6B"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 22,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 61
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.69447778,
+      "score_delta": -0.0,
+      "rank": 46,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.69447778,
+      "score_delta": -0.0,
+      "rank": 46,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.32836734,
+      "score_delta": -0.36611044,
+      "rank": 85,
+      "rank_delta": 39
+    },
+    "behavior_neutralized": {
+      "score": 10.30259639,
+      "score_delta": -0.39188139,
+      "rank": 86,
+      "rank_delta": 40
+    },
+    "made_unavailable": {
+      "score": 9.61434139,
+      "score_delta": -1.08013639,
+      "rank": 139,
+      "rank_delta": 93
+    },
+    "contradiction_injected": {
+      "score": 10.00620384,
+      "score_delta": -0.68827393,
+      "rank": 111,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.6866154,
+      "score_delta": -1.00786237,
+      "rank": 136,
+      "rank_delta": 90
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.54980357,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 95
+    },
+    "ownership_evidence_removed": {
+      "score": 9.81208752,
+      "score_delta": -0.88239026,
+      "rank": 128,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 2.06000179,
+      "score_delta": -8.63447599,
+      "rank": 23825,
+      "rank_delta": 23779
+    }
+  }
+}

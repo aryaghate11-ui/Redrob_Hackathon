@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0046525",
+  "profile": {
+    "current_title": "Senior Machine Learning Engineer",
+    "current_company": "Genpact AI",
+    "years_of_experience": 6.1,
+    "location": "Pune, Maharashtra"
+  },
+  "baseline": {
+    "rank": 51,
+    "score": 10.63895688,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 62
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.53578724,
+      "score_delta": -0.10316964,
+      "rank": 58,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 10.63895688,
+      "score_delta": 0.0,
+      "rank": 51,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.63895688,
+      "score_delta": 0.0,
+      "rank": 51,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.15501853,
+      "score_delta": -0.48393834,
+      "rank": 94,
+      "rank_delta": 43
+    },
+    "made_unavailable": {
+      "score": 9.44603827,
+      "score_delta": -1.19291861,
+      "rank": 147,
+      "rank_delta": 96
+    },
+    "contradiction_injected": {
+      "score": 9.95068294,
+      "score_delta": -0.68827393,
+      "rank": 117,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.6310945,
+      "score_delta": -1.00786237,
+      "rank": 139,
+      "rank_delta": 88
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.49428267,
+      "score_delta": -1.14467421,
+      "rank": 145,
+      "rank_delta": 94
+    },
+    "ownership_evidence_removed": {
+      "score": 9.75656662,
+      "score_delta": -0.88239026,
+      "rank": 132,
+      "rank_delta": 81
+    },
+    "all_project_evidence_removed": {
+      "score": 1.97130651,
+      "score_delta": -8.66765037,
+      "rank": 24521,
+      "rank_delta": 24470
+    }
+  }
+}

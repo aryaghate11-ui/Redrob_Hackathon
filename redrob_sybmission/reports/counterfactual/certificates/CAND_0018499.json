@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0018499",
+  "profile": {
+    "current_title": "Senior Machine Learning Engineer",
+    "current_company": "Zomato",
+    "years_of_experience": 7.2,
+    "location": "Noida, Uttar Pradesh"
+  },
+  "baseline": {
+    "rank": 5,
+    "score": 11.1928349,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 89,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 52,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 66,
+    "availability_sensitivity": 59
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.15156705,
+      "score_delta": -0.04126786,
+      "rank": 9,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 11.1928349,
+      "score_delta": 0.0,
+      "rank": 5,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.82672446,
+      "score_delta": -0.36611044,
+      "rank": 29,
+      "rank_delta": 24
+    },
+    "behavior_neutralized": {
+      "score": 10.73276069,
+      "score_delta": -0.46007421,
+      "rank": 41,
+      "rank_delta": 36
+    },
+    "made_unavailable": {
+      "score": 10.16885727,
+      "score_delta": -1.02397764,
+      "rank": 94,
+      "rank_delta": 89
+    },
+    "contradiction_injected": {
+      "score": 10.50456097,
+      "score_delta": -0.68827393,
+      "rank": 59,
+      "rank_delta": 54
+    },
+    "production_evidence_removed": {
+      "score": 10.18497253,
+      "score_delta": -1.00786237,
+      "rank": 93,
+      "rank_delta": 88
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.04816069,
+      "score_delta": -1.14467421,
+      "rank": 107,
+      "rank_delta": 102
+    },
+    "ownership_evidence_removed": {
+      "score": 10.31044464,
+      "score_delta": -0.88239026,
+      "rank": 86,
+      "rank_delta": 81
+    },
+    "all_project_evidence_removed": {
+      "score": 2.27985441,
+      "score_delta": -8.91298049,
+      "rank": 21744,
+      "rank_delta": 21739
+    }
+  }
+}

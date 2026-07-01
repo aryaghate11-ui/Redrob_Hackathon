@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0032515",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "PharmEasy",
+    "years_of_experience": 5.1,
+    "location": "Seattle"
+  },
+  "baseline": {
+    "rank": 56,
+    "score": 10.56701873,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 28,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 72,
+    "availability_sensitivity": 52
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.49686337,
+      "score_delta": -0.07015536,
+      "rank": 60,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 10.56701873,
+      "score_delta": -0.0,
+      "rank": 56,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.20090829,
+      "score_delta": -0.36611044,
+      "rank": 92,
+      "rank_delta": 36
+    },
+    "behavior_neutralized": {
+      "score": 10.40674631,
+      "score_delta": -0.16027242,
+      "rank": 78,
+      "rank_delta": 22
+    },
+    "made_unavailable": {
+      "score": 9.77442454,
+      "score_delta": -0.79259418,
+      "rank": 130,
+      "rank_delta": 74
+    },
+    "contradiction_injected": {
+      "score": 9.87874479,
+      "score_delta": -0.68827393,
+      "rank": 120,
+      "rank_delta": 64
+    },
+    "production_evidence_removed": {
+      "score": 9.55915635,
+      "score_delta": -1.00786237,
+      "rank": 141,
+      "rank_delta": 85
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.42234451,
+      "score_delta": -1.14467421,
+      "rank": 148,
+      "rank_delta": 92
+    },
+    "ownership_evidence_removed": {
+      "score": 9.68462847,
+      "score_delta": -0.88239026,
+      "rank": 136,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 1.65403823,
+      "score_delta": -8.91298049,
+      "rank": 27242,
+      "rank_delta": 27186
+    }
+  }
+}

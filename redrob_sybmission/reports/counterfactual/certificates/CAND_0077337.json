@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0077337",
+  "profile": {
+    "current_title": "Staff Machine Learning Engineer",
+    "current_company": "Paytm",
+    "years_of_experience": 7.0,
+    "location": "Kochi, Kerala"
+  },
+  "baseline": {
+    "rank": 3,
+    "score": 11.433327,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_813340E3696F"
+  },
+  "stability_scores": {
+    "overall_stability": 92,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 78,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 50,
+    "availability_sensitivity": 59
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.41578816,
+      "score_delta": -0.01753884,
+      "rank": 3,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.433327,
+      "score_delta": 0.0,
+      "rank": 3,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 11.06721656,
+      "score_delta": -0.36611044,
+      "rank": 14,
+      "rank_delta": 11
+    },
+    "behavior_neutralized": {
+      "score": 10.85088692,
+      "score_delta": -0.58244008,
+      "rank": 28,
+      "rank_delta": 25
+    },
+    "made_unavailable": {
+      "score": 10.22006337,
+      "score_delta": -1.21326363,
+      "rank": 92,
+      "rank_delta": 89
+    },
+    "contradiction_injected": {
+      "score": 10.74505307,
+      "score_delta": -0.68827393,
+      "rank": 38,
+      "rank_delta": 35
+    },
+    "production_evidence_removed": {
+      "score": 10.42546463,
+      "score_delta": -1.00786237,
+      "rank": 75,
+      "rank_delta": 72
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.28865279,
+      "score_delta": -1.14467421,
+      "rank": 87,
+      "rank_delta": 84
+    },
+    "ownership_evidence_removed": {
+      "score": 10.55093674,
+      "score_delta": -0.88239026,
+      "rank": 56,
+      "rank_delta": 53
+    },
+    "all_project_evidence_removed": {
+      "score": 2.27501638,
+      "score_delta": -9.15831062,
+      "rank": 21810,
+      "rank_delta": 21807
+    }
+  }
+}

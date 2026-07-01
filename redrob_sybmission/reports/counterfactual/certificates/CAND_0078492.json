@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0078492",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Verloop.io",
+    "years_of_experience": 5.1,
+    "location": "Kochi, Kerala"
+  },
+  "baseline": {
+    "rank": 85,
+    "score": 10.33458141,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 98,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 65,
+    "availability_sensitivity": 49
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.29331355,
+      "score_delta": -0.04126786,
+      "rank": 87,
+      "rank_delta": 2
+    },
+    "perfect_keywords_injected": {
+      "score": 10.33458141,
+      "score_delta": -0.0,
+      "rank": 85,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.33458141,
+      "score_delta": -0.0,
+      "rank": 85,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.06041408,
+      "score_delta": -0.27416733,
+      "rank": 105,
+      "rank_delta": 20
+    },
+    "made_unavailable": {
+      "score": 9.34818769,
+      "score_delta": -0.98639372,
+      "rank": 153,
+      "rank_delta": 68
+    },
+    "contradiction_injected": {
+      "score": 9.64630747,
+      "score_delta": -0.68827393,
+      "rank": 138,
+      "rank_delta": 53
+    },
+    "production_evidence_removed": {
+      "score": 9.32671903,
+      "score_delta": -1.00786237,
+      "rank": 153,
+      "rank_delta": 68
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.1899072,
+      "score_delta": -1.14467421,
+      "rank": 155,
+      "rank_delta": 70
+    },
+    "ownership_evidence_removed": {
+      "score": 9.45219115,
+      "score_delta": -0.88239026,
+      "rank": 147,
+      "rank_delta": 62
+    },
+    "all_project_evidence_removed": {
+      "score": 1.66693104,
+      "score_delta": -8.66765037,
+      "rank": 27112,
+      "rank_delta": 27027
+    }
+  }
+}

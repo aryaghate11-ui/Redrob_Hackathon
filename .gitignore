@@ -1,0 +1,21 @@
+# Large datasets
+\[PUB\] India_runs_data_and_ai_challenge/
+
+# Old folder
+ML Project/
+
+# Large generated features
+redrob_sybmission/data/processed/candidate_features.jsonl
+
+# Operating system / build files
+__MACOSX/
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.log
+**/node_modules/

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0030031",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Microsoft",
+    "years_of_experience": 5.7,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 73,
+    "score": 10.44521829,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 95,
+    "keyword_independence": 100,
+    "skill_list_independence": 89,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 51
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.33560055,
+      "score_delta": -0.10961774,
+      "rank": 84,
+      "rank_delta": 11
+    },
+    "perfect_keywords_injected": {
+      "score": 10.44521829,
+      "score_delta": 0.0,
+      "rank": 73,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.44521829,
+      "score_delta": 0.0,
+      "rank": 73,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.22536532,
+      "score_delta": -0.21985297,
+      "rank": 91,
+      "rank_delta": 18
+    },
+    "made_unavailable": {
+      "score": 9.50564787,
+      "score_delta": -0.93957042,
+      "rank": 145,
+      "rank_delta": 72
+    },
+    "contradiction_injected": {
+      "score": 9.75694435,
+      "score_delta": -0.68827393,
+      "rank": 132,
+      "rank_delta": 59
+    },
+    "production_evidence_removed": {
+      "score": 9.43735591,
+      "score_delta": -1.00786237,
+      "rank": 147,
+      "rank_delta": 74
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.30054408,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 81
+    },
+    "ownership_evidence_removed": {
+      "score": 9.56282803,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 68
+    },
+    "all_project_evidence_removed": {
+      "score": 1.53223779,
+      "score_delta": -8.91298049,
+      "rank": 28653,
+      "rank_delta": 28580
+    }
+  }
+}

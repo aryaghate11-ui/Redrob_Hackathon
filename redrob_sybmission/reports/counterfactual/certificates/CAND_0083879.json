@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0083879",
+  "profile": {
+    "current_title": "Machine Learning Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 7.1,
+    "location": "Noida, Uttar Pradesh"
+  },
+  "baseline": {
+    "rank": 21,
+    "score": 10.92991587,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 97,
+    "company_context_independence": 30,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 62
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.89483819,
+      "score_delta": -0.03507768,
+      "rank": 24,
+      "rank_delta": 3
+    },
+    "perfect_keywords_injected": {
+      "score": 10.92991587,
+      "score_delta": -0.0,
+      "rank": 21,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.56380543,
+      "score_delta": -0.36611044,
+      "rank": 56,
+      "rank_delta": 35
+    },
+    "behavior_neutralized": {
+      "score": 10.72769706,
+      "score_delta": -0.20221881,
+      "rank": 41,
+      "rank_delta": 20
+    },
+    "made_unavailable": {
+      "score": 9.92707617,
+      "score_delta": -1.0028397,
+      "rank": 119,
+      "rank_delta": 98
+    },
+    "contradiction_injected": {
+      "score": 10.24164193,
+      "score_delta": -0.68827393,
+      "rank": 89,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.92205349,
+      "score_delta": -1.00786237,
+      "rank": 119,
+      "rank_delta": 98
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.78524165,
+      "score_delta": -1.14467421,
+      "rank": 130,
+      "rank_delta": 109
+    },
+    "ownership_evidence_removed": {
+      "score": 10.04752561,
+      "score_delta": -0.88239026,
+      "rank": 107,
+      "rank_delta": 86
+    },
+    "all_project_evidence_removed": {
+      "score": 2.01693537,
+      "score_delta": -8.91298049,
+      "rank": 24193,
+      "rank_delta": 24172
+    }
+  }
+}

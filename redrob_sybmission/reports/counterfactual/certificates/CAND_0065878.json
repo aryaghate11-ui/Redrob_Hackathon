@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0065878",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Niramai",
+    "years_of_experience": 7.8,
+    "location": "Trivandrum, Kerala"
+  },
+  "baseline": {
+    "rank": 48,
+    "score": 10.66490664,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 95,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 57
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.59475128,
+      "score_delta": -0.07015536,
+      "rank": 53,
+      "rank_delta": 5
+    },
+    "perfect_keywords_injected": {
+      "score": 10.66490664,
+      "score_delta": -0.0,
+      "rank": 48,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.66490664,
+      "score_delta": -0.0,
+      "rank": 48,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.55001416,
+      "score_delta": -0.11489248,
+      "rank": 56,
+      "rank_delta": 8
+    },
+    "made_unavailable": {
+      "score": 9.74939327,
+      "score_delta": -0.91551336,
+      "rank": 132,
+      "rank_delta": 84
+    },
+    "contradiction_injected": {
+      "score": 9.9766327,
+      "score_delta": -0.68827393,
+      "rank": 116,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.65704426,
+      "score_delta": -1.00786237,
+      "rank": 138,
+      "rank_delta": 90
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.52023242,
+      "score_delta": -1.14467421,
+      "rank": 143,
+      "rank_delta": 95
+    },
+    "ownership_evidence_removed": {
+      "score": 9.78251638,
+      "score_delta": -0.88239026,
+      "rank": 130,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 1.50659601,
+      "score_delta": -9.15831062,
+      "rank": 28992,
+      "rank_delta": 28944
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0014440",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "CRED",
+    "years_of_experience": 6.4,
+    "location": "Chennai, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 10,
+    "score": 11.14584866,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 90,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 54,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 61
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.08738586,
+      "score_delta": -0.0584628,
+      "rank": 11,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 11.14584866,
+      "score_delta": 0.0,
+      "rank": 10,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.77973822,
+      "score_delta": -0.36611044,
+      "rank": 33,
+      "rank_delta": 23
+    },
+    "behavior_neutralized": {
+      "score": 10.66930887,
+      "score_delta": -0.47653979,
+      "rank": 46,
+      "rank_delta": 36
+    },
+    "made_unavailable": {
+      "score": 10.09217124,
+      "score_delta": -1.05367742,
+      "rank": 103,
+      "rank_delta": 93
+    },
+    "contradiction_injected": {
+      "score": 10.45757473,
+      "score_delta": -0.68827393,
+      "rank": 69,
+      "rank_delta": 59
+    },
+    "production_evidence_removed": {
+      "score": 10.13798629,
+      "score_delta": -1.00786237,
+      "rank": 97,
+      "rank_delta": 87
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.00117445,
+      "score_delta": -1.14467421,
+      "rank": 112,
+      "rank_delta": 102
+    },
+    "ownership_evidence_removed": {
+      "score": 10.2634584,
+      "score_delta": -0.88239026,
+      "rank": 89,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 2.23286817,
+      "score_delta": -8.91298049,
+      "rank": 22227,
+      "rank_delta": 22217
+    }
+  }
+}

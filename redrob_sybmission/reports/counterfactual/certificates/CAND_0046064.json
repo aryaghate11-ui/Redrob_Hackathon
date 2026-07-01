@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0046064",
+  "profile": {
+    "current_title": "Senior NLP Engineer",
+    "current_company": "Salesforce",
+    "years_of_experience": 8.9,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 58,
+    "score": 10.54615317,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 59
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.52422962,
+      "score_delta": -0.02192355,
+      "rank": 59,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 10.54615317,
+      "score_delta": 0.0,
+      "rank": 58,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.54615317,
+      "score_delta": 0.0,
+      "rank": 58,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.07644509,
+      "score_delta": -0.46970808,
+      "rank": 104,
+      "rank_delta": 46
+    },
+    "made_unavailable": {
+      "score": 9.44387362,
+      "score_delta": -1.10227955,
+      "rank": 147,
+      "rank_delta": 89
+    },
+    "contradiction_injected": {
+      "score": 9.85787923,
+      "score_delta": -0.68827393,
+      "rank": 123,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.53829079,
+      "score_delta": -1.00786237,
+      "rank": 142,
+      "rank_delta": 84
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.40147896,
+      "score_delta": -1.14467421,
+      "rank": 150,
+      "rank_delta": 92
+    },
+    "ownership_evidence_removed": {
+      "score": 9.66376291,
+      "score_delta": -0.88239026,
+      "rank": 136,
+      "rank_delta": 78
+    },
+    "all_project_evidence_removed": {
+      "score": 1.63317267,
+      "score_delta": -8.91298049,
+      "rank": 27470,
+      "rank_delta": 27412
+    }
+  }
+}

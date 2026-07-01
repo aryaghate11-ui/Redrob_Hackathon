@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0055905",
+  "profile": {
+    "current_title": "Senior Machine Learning Engineer",
+    "current_company": "Flipkart",
+    "years_of_experience": 8.1,
+    "location": "London"
+  },
+  "baseline": {
+    "rank": 29,
+    "score": 10.84301914,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_F73BD00561A1"
+  },
+  "stability_scores": {
+    "overall_stability": 85,
+    "keyword_independence": 100,
+    "skill_list_independence": 88,
+    "company_context_independence": 32,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 65
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.73508782,
+      "score_delta": -0.10793132,
+      "rank": 41,
+      "rank_delta": 12
+    },
+    "perfect_keywords_injected": {
+      "score": 10.84301914,
+      "score_delta": 0.0,
+      "rank": 29,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.4769087,
+      "score_delta": -0.36611044,
+      "rank": 63,
+      "rank_delta": 34
+    },
+    "behavior_neutralized": {
+      "score": 10.52223768,
+      "score_delta": -0.32078146,
+      "rank": 59,
+      "rank_delta": 30
+    },
+    "made_unavailable": {
+      "score": 9.72161679,
+      "score_delta": -1.12140235,
+      "rank": 135,
+      "rank_delta": 106
+    },
+    "contradiction_injected": {
+      "score": 10.15474521,
+      "score_delta": -0.68827393,
+      "rank": 94,
+      "rank_delta": 65
+    },
+    "production_evidence_removed": {
+      "score": 9.83515677,
+      "score_delta": -1.00786237,
+      "rank": 125,
+      "rank_delta": 96
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.69834493,
+      "score_delta": -1.14467421,
+      "rank": 136,
+      "rank_delta": 107
+    },
+    "ownership_evidence_removed": {
+      "score": 9.96062888,
+      "score_delta": -0.88239026,
+      "rank": 117,
+      "rank_delta": 88
+    },
+    "all_project_evidence_removed": {
+      "score": 1.93003865,
+      "score_delta": -8.91298049,
+      "rank": 24851,
+      "rank_delta": 24822
+    }
+  }
+}

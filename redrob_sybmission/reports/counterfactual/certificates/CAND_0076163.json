@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0076163",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Ola",
+    "years_of_experience": 6.9,
+    "location": "Chandigarh, Chandigarh"
+  },
+  "baseline": {
+    "rank": 9,
+    "score": 11.15202275,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 52,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 70,
+    "availability_sensitivity": 66
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.04885311,
+      "score_delta": -0.10316964,
+      "rank": 16,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 11.15202275,
+      "score_delta": 0.0,
+      "rank": 9,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.78591231,
+      "score_delta": -0.36611044,
+      "rank": 33,
+      "rank_delta": 24
+    },
+    "behavior_neutralized": {
+      "score": 10.56375518,
+      "score_delta": -0.58826757,
+      "rank": 56,
+      "rank_delta": 47
+    },
+    "made_unavailable": {
+      "score": 9.97438215,
+      "score_delta": -1.1776406,
+      "rank": 116,
+      "rank_delta": 107
+    },
+    "contradiction_injected": {
+      "score": 10.46374882,
+      "score_delta": -0.68827393,
+      "rank": 69,
+      "rank_delta": 60
+    },
+    "production_evidence_removed": {
+      "score": 10.14416038,
+      "score_delta": -1.00786237,
+      "rank": 96,
+      "rank_delta": 87
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.00734854,
+      "score_delta": -1.14467421,
+      "rank": 111,
+      "rank_delta": 102
+    },
+    "ownership_evidence_removed": {
+      "score": 10.26963249,
+      "score_delta": -0.88239026,
+      "rank": 89,
+      "rank_delta": 80
+    },
+    "all_project_evidence_removed": {
+      "score": 2.48437238,
+      "score_delta": -8.66765037,
+      "rank": 19505,
+      "rank_delta": 19496
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0099806",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "Mad Street Den",
+    "years_of_experience": 4.6,
+    "location": "Bhubaneswar, Odisha"
+  },
+  "baseline": {
+    "rank": 74,
+    "score": 10.44287431,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 53
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.42338671,
+      "score_delta": -0.0194876,
+      "rank": 75,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 10.44287431,
+      "score_delta": -0.0,
+      "rank": 74,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.44287431,
+      "score_delta": -0.0,
+      "rank": 74,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 9.97825248,
+      "score_delta": -0.46462183,
+      "rank": 116,
+      "rank_delta": 42
+    },
+    "made_unavailable": {
+      "score": 9.3946226,
+      "score_delta": -1.04825171,
+      "rank": 150,
+      "rank_delta": 76
+    },
+    "contradiction_injected": {
+      "score": 9.75460038,
+      "score_delta": -0.68827393,
+      "rank": 132,
+      "rank_delta": 58
+    },
+    "production_evidence_removed": {
+      "score": 9.43501194,
+      "score_delta": -1.00786237,
+      "rank": 147,
+      "rank_delta": 73
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.2982001,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 80
+    },
+    "ownership_evidence_removed": {
+      "score": 9.56048405,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 67
+    },
+    "all_project_evidence_removed": {
+      "score": 1.77522395,
+      "score_delta": -8.66765037,
+      "rank": 26073,
+      "rank_delta": 25999
+    }
+  }
+}

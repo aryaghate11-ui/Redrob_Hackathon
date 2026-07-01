@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0006567",
+  "profile": {
+    "current_title": "Senior AI Engineer",
+    "current_company": "Meta",
+    "years_of_experience": 7.9,
+    "location": "Noida, Uttar Pradesh"
+  },
+  "baseline": {
+    "rank": 15,
+    "score": 11.06260889,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_BB08D1841FC6"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 99,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 65
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.04507005,
+      "score_delta": -0.01753884,
+      "rank": 16,
+      "rank_delta": 1
+    },
+    "perfect_keywords_injected": {
+      "score": 11.06260889,
+      "score_delta": -0.0,
+      "rank": 15,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.69649845,
+      "score_delta": -0.36611044,
+      "rank": 45,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 10.59877117,
+      "score_delta": -0.46383772,
+      "rank": 52,
+      "rank_delta": 37
+    },
+    "made_unavailable": {
+      "score": 9.88604537,
+      "score_delta": -1.17656352,
+      "rank": 120,
+      "rank_delta": 105
+    },
+    "contradiction_injected": {
+      "score": 10.37433496,
+      "score_delta": -0.68827393,
+      "rank": 81,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 10.05474652,
+      "score_delta": -1.00786237,
+      "rank": 106,
+      "rank_delta": 91
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.91793468,
+      "score_delta": -1.14467421,
+      "rank": 119,
+      "rank_delta": 104
+    },
+    "ownership_evidence_removed": {
+      "score": 10.18021863,
+      "score_delta": -0.88239026,
+      "rank": 93,
+      "rank_delta": 78
+    },
+    "all_project_evidence_removed": {
+      "score": 2.1496284,
+      "score_delta": -8.91298049,
+      "rank": 23031,
+      "rank_delta": 23016
+    }
+  }
+}

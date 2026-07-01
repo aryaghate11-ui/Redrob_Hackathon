@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0047721",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Microsoft",
+    "years_of_experience": 7.0,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 87,
+    "score": 10.29754845,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 95,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 66,
+    "availability_sensitivity": 42
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.19437881,
+      "score_delta": -0.10316964,
+      "rank": 92,
+      "rank_delta": 5
+    },
+    "perfect_keywords_injected": {
+      "score": 10.29754845,
+      "score_delta": 0.0,
+      "rank": 87,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.29754845,
+      "score_delta": 0.0,
+      "rank": 87,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.16180416,
+      "score_delta": -0.1357443,
+      "rank": 94,
+      "rank_delta": 7
+    },
+    "made_unavailable": {
+      "score": 9.58616474,
+      "score_delta": -0.71138372,
+      "rank": 141,
+      "rank_delta": 54
+    },
+    "contradiction_injected": {
+      "score": 9.60927452,
+      "score_delta": -0.68827393,
+      "rank": 141,
+      "rank_delta": 54
+    },
+    "production_evidence_removed": {
+      "score": 9.28968608,
+      "score_delta": -1.00786237,
+      "rank": 154,
+      "rank_delta": 67
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.15287424,
+      "score_delta": -1.14467421,
+      "rank": 155,
+      "rank_delta": 68
+    },
+    "ownership_evidence_removed": {
+      "score": 9.41515819,
+      "score_delta": -0.88239026,
+      "rank": 148,
+      "rank_delta": 61
+    },
+    "all_project_evidence_removed": {
+      "score": 1.62989809,
+      "score_delta": -8.66765037,
+      "rank": 27498,
+      "rank_delta": 27411
+    }
+  }
+}

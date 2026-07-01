@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0027691",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Haptik",
+    "years_of_experience": 6.5,
+    "location": "Pune, Maharashtra"
+  },
+  "baseline": {
+    "rank": 33,
+    "score": 10.79266407,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 82,
+    "keyword_independence": 100,
+    "skill_list_independence": 87,
+    "company_context_independence": 16,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 75,
+    "availability_sensitivity": 62
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.68949443,
+      "score_delta": -0.10316964,
+      "rank": 46,
+      "rank_delta": 13
+    },
+    "perfect_keywords_injected": {
+      "score": 10.79266407,
+      "score_delta": -0.0,
+      "rank": 33,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.42655363,
+      "score_delta": -0.36611044,
+      "rank": 75,
+      "rank_delta": 42
+    },
+    "behavior_neutralized": {
+      "score": 10.42627392,
+      "score_delta": -0.36639015,
+      "rank": 75,
+      "rank_delta": 42
+    },
+    "made_unavailable": {
+      "score": 9.77172868,
+      "score_delta": -1.02093539,
+      "rank": 130,
+      "rank_delta": 97
+    },
+    "contradiction_injected": {
+      "score": 10.10439013,
+      "score_delta": -0.68827393,
+      "rank": 103,
+      "rank_delta": 70
+    },
+    "production_evidence_removed": {
+      "score": 9.78480169,
+      "score_delta": -1.00786237,
+      "rank": 130,
+      "rank_delta": 97
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.64798985,
+      "score_delta": -1.14467421,
+      "rank": 138,
+      "rank_delta": 105
+    },
+    "ownership_evidence_removed": {
+      "score": 9.91027381,
+      "score_delta": -0.88239026,
+      "rank": 119,
+      "rank_delta": 86
+    },
+    "all_project_evidence_removed": {
+      "score": 2.15818808,
+      "score_delta": -8.63447599,
+      "rank": 22941,
+      "rank_delta": 22908
+    }
+  }
+}

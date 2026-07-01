@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0030827",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Freshworks",
+    "years_of_experience": 5.4,
+    "location": "Singapore"
+  },
+  "baseline": {
+    "rank": 93,
+    "score": 10.18535714,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 87,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 34,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 65,
+    "availability_sensitivity": 46
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.18535714,
+      "score_delta": -0.0,
+      "rank": 93,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.18535714,
+      "score_delta": -0.0,
+      "rank": 93,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 9.8192467,
+      "score_delta": -0.36611044,
+      "rank": 126,
+      "rank_delta": 33
+    },
+    "behavior_neutralized": {
+      "score": 9.92738468,
+      "score_delta": -0.25797245,
+      "rank": 119,
+      "rank_delta": 26
+    },
+    "made_unavailable": {
+      "score": 9.25760762,
+      "score_delta": -0.92774951,
+      "rank": 154,
+      "rank_delta": 61
+    },
+    "contradiction_injected": {
+      "score": 9.4970832,
+      "score_delta": -0.68827393,
+      "rank": 145,
+      "rank_delta": 52
+    },
+    "production_evidence_removed": {
+      "score": 9.17749476,
+      "score_delta": -1.00786237,
+      "rank": 155,
+      "rank_delta": 62
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.04068292,
+      "score_delta": -1.14467421,
+      "rank": 157,
+      "rank_delta": 64
+    },
+    "ownership_evidence_removed": {
+      "score": 9.30296688,
+      "score_delta": -0.88239026,
+      "rank": 154,
+      "rank_delta": 61
+    },
+    "all_project_evidence_removed": {
+      "score": 1.79621128,
+      "score_delta": -8.38914586,
+      "rank": 25895,
+      "rank_delta": 25802
+    }
+  }
+}

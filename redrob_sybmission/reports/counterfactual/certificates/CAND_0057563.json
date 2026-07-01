@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0057563",
+  "profile": {
+    "current_title": "NLP Engineer",
+    "current_company": "Locobuzz",
+    "years_of_experience": 6.8,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 37,
+    "score": 10.75238362,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 84,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 14,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 57
+  },
+  "verdict": "acceptable_with_review",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.72732814,
+      "score_delta": -0.02505548,
+      "rank": 41,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 10.75238362,
+      "score_delta": -0.0,
+      "rank": 37,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.38627318,
+      "score_delta": -0.36611044,
+      "rank": 80,
+      "rank_delta": 43
+    },
+    "behavior_neutralized": {
+      "score": 10.61157091,
+      "score_delta": -0.14081271,
+      "rank": 51,
+      "rank_delta": 14
+    },
+    "made_unavailable": {
+      "score": 9.86788208,
+      "score_delta": -0.88450155,
+      "rank": 122,
+      "rank_delta": 85
+    },
+    "contradiction_injected": {
+      "score": 10.06410969,
+      "score_delta": -0.68827393,
+      "rank": 105,
+      "rank_delta": 68
+    },
+    "production_evidence_removed": {
+      "score": 9.74452125,
+      "score_delta": -1.00786237,
+      "rank": 132,
+      "rank_delta": 95
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.60770941,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 104
+    },
+    "ownership_evidence_removed": {
+      "score": 9.86999336,
+      "score_delta": -0.88239026,
+      "rank": 122,
+      "rank_delta": 85
+    },
+    "all_project_evidence_removed": {
+      "score": 1.83940313,
+      "score_delta": -8.91298049,
+      "rank": 25528,
+      "rank_delta": 25491
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0005649",
+  "profile": {
+    "current_title": "Senior Data Scientist",
+    "current_company": "Sarvam AI",
+    "years_of_experience": 7.4,
+    "location": "Delhi, Delhi"
+  },
+  "baseline": {
+    "rank": 66,
+    "score": 10.46974078,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 97,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 72,
+    "availability_sensitivity": 54
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.46974078,
+      "score_delta": 0.0,
+      "rank": 66,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.46974078,
+      "score_delta": 0.0,
+      "rank": 66,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.46974078,
+      "score_delta": 0.0,
+      "rank": 66,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.10832847,
+      "score_delta": -0.36141231,
+      "rank": 103,
+      "rank_delta": 37
+    },
+    "made_unavailable": {
+      "score": 9.50921707,
+      "score_delta": -0.96052371,
+      "rank": 144,
+      "rank_delta": 78
+    },
+    "contradiction_injected": {
+      "score": 9.78146684,
+      "score_delta": -0.68827393,
+      "rank": 130,
+      "rank_delta": 64
+    },
+    "production_evidence_removed": {
+      "score": 9.4618784,
+      "score_delta": -1.00786237,
+      "rank": 146,
+      "rank_delta": 80
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.32506657,
+      "score_delta": -1.14467421,
+      "rank": 153,
+      "rank_delta": 87
+    },
+    "ownership_evidence_removed": {
+      "score": 9.58735052,
+      "score_delta": -0.88239026,
+      "rank": 141,
+      "rank_delta": 75
+    },
+    "all_project_evidence_removed": {
+      "score": 1.58993467,
+      "score_delta": -8.87980611,
+      "rank": 27938,
+      "rank_delta": 27872
+    }
+  }
+}

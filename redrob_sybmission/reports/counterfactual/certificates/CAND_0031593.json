@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0031593",
+  "profile": {
+    "current_title": "Search Engineer",
+    "current_company": "Genpact AI",
+    "years_of_experience": 7.8,
+    "location": "Kolkata, West Bengal"
+  },
+  "baseline": {
+    "rank": 78,
+    "score": 10.40697921,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 96,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 49
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.36313211,
+      "score_delta": -0.0438471,
+      "rank": 82,
+      "rank_delta": 4
+    },
+    "perfect_keywords_injected": {
+      "score": 10.40697921,
+      "score_delta": -0.0,
+      "rank": 78,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.40697921,
+      "score_delta": -0.0,
+      "rank": 78,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.24215921,
+      "score_delta": -0.16482,
+      "rank": 89,
+      "rank_delta": 11
+    },
+    "made_unavailable": {
+      "score": 9.49946917,
+      "score_delta": -0.90751003,
+      "rank": 145,
+      "rank_delta": 67
+    },
+    "contradiction_injected": {
+      "score": 9.71870527,
+      "score_delta": -0.68827393,
+      "rank": 136,
+      "rank_delta": 58
+    },
+    "production_evidence_removed": {
+      "score": 9.39911683,
+      "score_delta": -1.00786237,
+      "rank": 150,
+      "rank_delta": 72
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.262305,
+      "score_delta": -1.14467421,
+      "rank": 154,
+      "rank_delta": 76
+    },
+    "ownership_evidence_removed": {
+      "score": 9.52458895,
+      "score_delta": -0.88239026,
+      "rank": 143,
+      "rank_delta": 65
+    },
+    "all_project_evidence_removed": {
+      "score": 1.49399871,
+      "score_delta": -8.91298049,
+      "rank": 29148,
+      "rank_delta": 29070
+    }
+  }
+}

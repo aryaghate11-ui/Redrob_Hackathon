@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0071974",
+  "profile": {
+    "current_title": "Senior AI Engineer",
+    "current_company": "Netflix",
+    "years_of_experience": 7.8,
+    "location": "Vizag, Andhra Pradesh"
+  },
+  "baseline": {
+    "rank": 38,
+    "score": 10.75148268,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_E3C7EB061150"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 92,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 64
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.67763493,
+      "score_delta": -0.07384774,
+      "rank": 46,
+      "rank_delta": 8
+    },
+    "perfect_keywords_injected": {
+      "score": 10.75148268,
+      "score_delta": -0.0,
+      "rank": 38,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.75148268,
+      "score_delta": -0.0,
+      "rank": 38,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.22631929,
+      "score_delta": -0.52516338,
+      "rank": 91,
+      "rank_delta": 53
+    },
+    "made_unavailable": {
+      "score": 9.63245163,
+      "score_delta": -1.11903105,
+      "rank": 139,
+      "rank_delta": 101
+    },
+    "contradiction_injected": {
+      "score": 10.06320874,
+      "score_delta": -0.68827393,
+      "rank": 105,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.7436203,
+      "score_delta": -1.00786237,
+      "rank": 132,
+      "rank_delta": 94
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.60680846,
+      "score_delta": -1.14467421,
+      "rank": 141,
+      "rank_delta": 103
+    },
+    "ownership_evidence_removed": {
+      "score": 9.86909242,
+      "score_delta": -0.88239026,
+      "rank": 122,
+      "rank_delta": 84
+    },
+    "all_project_evidence_removed": {
+      "score": 1.83850218,
+      "score_delta": -8.91298049,
+      "rank": 25537,
+      "rank_delta": 25499
+    }
+  }
+}

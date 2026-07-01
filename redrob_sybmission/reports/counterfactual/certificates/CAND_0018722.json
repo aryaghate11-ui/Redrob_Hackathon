@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0018722",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Saarthi.ai",
+    "years_of_experience": 6.6,
+    "location": "Toronto"
+  },
+  "baseline": {
+    "rank": 16,
+    "score": 11.0585384,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 88,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 40,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 61
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.0585384,
+      "score_delta": 0.0,
+      "rank": 16,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.0585384,
+      "score_delta": 0.0,
+      "rank": 16,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.69242796,
+      "score_delta": -0.36611044,
+      "rank": 46,
+      "rank_delta": 30
+    },
+    "behavior_neutralized": {
+      "score": 10.57240634,
+      "score_delta": -0.48613206,
+      "rank": 54,
+      "rank_delta": 38
+    },
+    "made_unavailable": {
+      "score": 10.0072544,
+      "score_delta": -1.051284,
+      "rank": 111,
+      "rank_delta": 95
+    },
+    "contradiction_injected": {
+      "score": 10.37026446,
+      "score_delta": -0.68827393,
+      "rank": 82,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 10.05067602,
+      "score_delta": -1.00786237,
+      "rank": 107,
+      "rank_delta": 91
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.91386419,
+      "score_delta": -1.14467421,
+      "rank": 119,
+      "rank_delta": 103
+    },
+    "ownership_evidence_removed": {
+      "score": 10.17614814,
+      "score_delta": -0.88239026,
+      "rank": 94,
+      "rank_delta": 78
+    },
+    "all_project_evidence_removed": {
+      "score": 2.1455579,
+      "score_delta": -8.91298049,
+      "rank": 23075,
+      "rank_delta": 23059
+    }
+  }
+}

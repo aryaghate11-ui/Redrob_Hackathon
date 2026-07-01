@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0017960",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Nykaa",
+    "years_of_experience": 7.7,
+    "location": "Bangalore, Karnataka"
+  },
+  "baseline": {
+    "rank": 8,
+    "score": 11.15616977,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_A2AF0BEE2D8A"
+  },
+  "stability_scores": {
+    "overall_stability": 89,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 50,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 69,
+    "availability_sensitivity": 62
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 11.15616977,
+      "score_delta": 0.0,
+      "rank": 8,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 11.15616977,
+      "score_delta": 0.0,
+      "rank": 8,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.79005932,
+      "score_delta": -0.36611044,
+      "rank": 33,
+      "rank_delta": 25
+    },
+    "behavior_neutralized": {
+      "score": 10.65192547,
+      "score_delta": -0.50424429,
+      "rank": 49,
+      "rank_delta": 41
+    },
+    "made_unavailable": {
+      "score": 10.08202919,
+      "score_delta": -1.07414057,
+      "rank": 104,
+      "rank_delta": 96
+    },
+    "contradiction_injected": {
+      "score": 10.46789583,
+      "score_delta": -0.68827393,
+      "rank": 67,
+      "rank_delta": 59
+    },
+    "production_evidence_removed": {
+      "score": 10.14830739,
+      "score_delta": -1.00786237,
+      "rank": 95,
+      "rank_delta": 87
+    },
+    "evaluation_evidence_removed": {
+      "score": 10.01149555,
+      "score_delta": -1.14467421,
+      "rank": 111,
+      "rank_delta": 103
+    },
+    "ownership_evidence_removed": {
+      "score": 10.2737795,
+      "score_delta": -0.88239026,
+      "rank": 89,
+      "rank_delta": 81
+    },
+    "all_project_evidence_removed": {
+      "score": 2.24318927,
+      "score_delta": -8.91298049,
+      "rank": 22108,
+      "rank_delta": 22100
+    }
+  }
+}

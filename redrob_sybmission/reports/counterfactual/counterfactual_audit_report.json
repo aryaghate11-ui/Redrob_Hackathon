@@ -1,0 +1,45 @@
+{
+  "shortlist_size": 100,
+  "full_pool_size": 100000,
+  "verdict_counts": {
+    "robust_evidence_driven": 83,
+    "acceptable_with_review": 17
+  },
+  "average_scores": {
+    "overall_stability": 89.54,
+    "keyword_independence": 100.0,
+    "skill_list_independence": 95.4,
+    "company_context_independence": 56.42,
+    "project_evidence_reliance": 100.0,
+    "credibility_sensitivity": 69.83,
+    "availability_sensitivity": 55.68
+  },
+  "full_pool_invariance_tests": {
+    "keyword_injection": {
+      "maximum_absolute_score_change": 0.0,
+      "top100_membership_changes": 0,
+      "passed": true
+    },
+    "perfect_skill_corroboration": {
+      "irrelevant_candidates_entering_top100": 0,
+      "top100_membership_changes": 4,
+      "passed": true
+    },
+    "contradiction_injection": {
+      "candidates_with_lower_score": 100000,
+      "candidate_count": 100000,
+      "passed": true
+    },
+    "project_evidence_removal": {
+      "median_score_drop": 1.0067611839506518,
+      "tier5_median_score_drop": 8.667650367879144,
+      "passed": true
+    }
+  },
+  "all_required_tests_passed": true,
+  "artifacts": {
+    "summary_csv": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\reports\\counterfactual\\rank_stability_summary.csv",
+    "certificates_jsonl": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\reports\\counterfactual\\rank_stability_certificates.jsonl",
+    "certificate_directory": "C:\\Users\\Aarya\\Downloads\\[PUB] India_runs_data_and_ai_challenge\\ML Project\\reports\\counterfactual\\certificates"
+  }
+}

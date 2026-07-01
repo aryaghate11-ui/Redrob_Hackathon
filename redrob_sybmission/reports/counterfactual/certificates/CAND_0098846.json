@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0098846",
+  "profile": {
+    "current_title": "AI Engineer",
+    "current_company": "upGrad",
+    "years_of_experience": 7.6,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 50,
+    "score": 10.65135979,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_3C421D56A732"
+  },
+  "stability_scores": {
+    "overall_stability": 86,
+    "keyword_independence": 100,
+    "skill_list_independence": 100,
+    "company_context_independence": 24,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 74,
+    "availability_sensitivity": 58
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.65135979,
+      "score_delta": 0.0,
+      "rank": 50,
+      "rank_delta": 0
+    },
+    "perfect_keywords_injected": {
+      "score": 10.65135979,
+      "score_delta": 0.0,
+      "rank": 50,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.28524935,
+      "score_delta": -0.36611044,
+      "rank": 88,
+      "rank_delta": 38
+    },
+    "behavior_neutralized": {
+      "score": 10.26295061,
+      "score_delta": -0.38840917,
+      "rank": 89,
+      "rank_delta": 39
+    },
+    "made_unavailable": {
+      "score": 9.67757282,
+      "score_delta": -0.97378697,
+      "rank": 136,
+      "rank_delta": 86
+    },
+    "contradiction_injected": {
+      "score": 9.96308585,
+      "score_delta": -0.68827393,
+      "rank": 117,
+      "rank_delta": 67
+    },
+    "production_evidence_removed": {
+      "score": 9.64349741,
+      "score_delta": -1.00786237,
+      "rank": 138,
+      "rank_delta": 88
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.50668557,
+      "score_delta": -1.14467421,
+      "rank": 145,
+      "rank_delta": 95
+    },
+    "ownership_evidence_removed": {
+      "score": 9.76896953,
+      "score_delta": -0.88239026,
+      "rank": 132,
+      "rank_delta": 82
+    },
+    "all_project_evidence_removed": {
+      "score": 2.05005818,
+      "score_delta": -8.6013016,
+      "rank": 23923,
+      "rank_delta": 23873
+    }
+  }
+}

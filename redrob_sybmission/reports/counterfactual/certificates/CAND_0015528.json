@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0015528",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "Krutrim",
+    "years_of_experience": 7.4,
+    "location": "Coimbatore, Tamil Nadu"
+  },
+  "baseline": {
+    "rank": 99,
+    "score": 10.13405016,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 95,
+    "keyword_independence": 100,
+    "skill_list_independence": 92,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 62,
+    "availability_sensitivity": 36
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.05151445,
+      "score_delta": -0.08253571,
+      "rank": 107,
+      "rank_delta": 8
+    },
+    "perfect_keywords_injected": {
+      "score": 10.13405016,
+      "score_delta": 0.0,
+      "rank": 99,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.13405016,
+      "score_delta": 0.0,
+      "rank": 99,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.19725843,
+      "score_delta": 0.06320827,
+      "rank": 93,
+      "rank_delta": -6
+    },
+    "made_unavailable": {
+      "score": 9.52298674,
+      "score_delta": -0.61106342,
+      "rank": 143,
+      "rank_delta": 44
+    },
+    "contradiction_injected": {
+      "score": 9.44577623,
+      "score_delta": -0.68827393,
+      "rank": 147,
+      "rank_delta": 48
+    },
+    "production_evidence_removed": {
+      "score": 9.12618779,
+      "score_delta": -1.00786237,
+      "rank": 156,
+      "rank_delta": 57
+    },
+    "evaluation_evidence_removed": {
+      "score": 8.98937595,
+      "score_delta": -1.14467421,
+      "rank": 158,
+      "rank_delta": 59
+    },
+    "ownership_evidence_removed": {
+      "score": 9.38907364,
+      "score_delta": -0.74497652,
+      "rank": 150,
+      "rank_delta": 51
+    },
+    "all_project_evidence_removed": {
+      "score": 1.3584834,
+      "score_delta": -8.77556676,
+      "rank": 31044,
+      "rank_delta": 30945
+    }
+  }
+}

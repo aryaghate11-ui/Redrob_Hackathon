@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0086151",
+  "profile": {
+    "current_title": "Recommendation Systems Engineer",
+    "current_company": "Wysa",
+    "years_of_experience": 7.7,
+    "location": "Vizag, Andhra Pradesh"
+  },
+  "baseline": {
+    "rank": 60,
+    "score": 10.50451904,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 95,
+    "keyword_independence": 100,
+    "skill_list_independence": 89,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 56
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.44913324,
+      "score_delta": -0.05538581,
+      "rank": 71,
+      "rank_delta": 11
+    },
+    "perfect_keywords_injected": {
+      "score": 10.50451904,
+      "score_delta": 0.0,
+      "rank": 60,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.50451904,
+      "score_delta": 0.0,
+      "rank": 60,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.25914371,
+      "score_delta": -0.24537533,
+      "rank": 89,
+      "rank_delta": 29
+    },
+    "made_unavailable": {
+      "score": 9.58761874,
+      "score_delta": -0.91690031,
+      "rank": 141,
+      "rank_delta": 81
+    },
+    "contradiction_injected": {
+      "score": 9.81624511,
+      "score_delta": -0.68827393,
+      "rank": 126,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.49665667,
+      "score_delta": -1.00786237,
+      "rank": 145,
+      "rank_delta": 85
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.35984483,
+      "score_delta": -1.14467421,
+      "rank": 151,
+      "rank_delta": 91
+    },
+    "ownership_evidence_removed": {
+      "score": 9.62212878,
+      "score_delta": -0.88239026,
+      "rank": 139,
+      "rank_delta": 79
+    },
+    "all_project_evidence_removed": {
+      "score": 1.59153855,
+      "score_delta": -8.91298049,
+      "rank": 27921,
+      "rank_delta": 27861
+    }
+  }
+}

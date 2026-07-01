@@ -1,0 +1,87 @@
+{
+  "candidate_id": "CAND_0009691",
+  "profile": {
+    "current_title": "Applied ML Engineer",
+    "current_company": "LinkedIn",
+    "years_of_experience": 6.2,
+    "location": "Indore, Madhya Pradesh"
+  },
+  "baseline": {
+    "rank": 53,
+    "score": 10.59536621,
+    "relevance_tier": 5,
+    "best_archetype_id": "ARCH_DC5571975001"
+  },
+  "stability_scores": {
+    "overall_stability": 96,
+    "keyword_independence": 100,
+    "skill_list_independence": 93,
+    "company_context_independence": 100,
+    "project_evidence_reliance": 100,
+    "credibility_sensitivity": 73,
+    "availability_sensitivity": 56
+  },
+  "verdict": "robust_evidence_driven",
+  "counterfactual_results": {
+    "skills_removed": {
+      "score": 10.50305653,
+      "score_delta": -0.09230968,
+      "rank": 60,
+      "rank_delta": 7
+    },
+    "perfect_keywords_injected": {
+      "score": 10.59536621,
+      "score_delta": -0.0,
+      "rank": 53,
+      "rank_delta": 0
+    },
+    "employer_neutralized": {
+      "score": 10.59536621,
+      "score_delta": -0.0,
+      "rank": 53,
+      "rank_delta": 0
+    },
+    "behavior_neutralized": {
+      "score": 10.3173223,
+      "score_delta": -0.2780439,
+      "rank": 86,
+      "rank_delta": 33
+    },
+    "made_unavailable": {
+      "score": 9.68599935,
+      "score_delta": -0.90936686,
+      "rank": 136,
+      "rank_delta": 83
+    },
+    "contradiction_injected": {
+      "score": 9.90709227,
+      "score_delta": -0.68827393,
+      "rank": 119,
+      "rank_delta": 66
+    },
+    "production_evidence_removed": {
+      "score": 9.58750383,
+      "score_delta": -1.00786237,
+      "rank": 141,
+      "rank_delta": 88
+    },
+    "evaluation_evidence_removed": {
+      "score": 9.45069199,
+      "score_delta": -1.14467421,
+      "rank": 147,
+      "rank_delta": 94
+    },
+    "ownership_evidence_removed": {
+      "score": 9.85038968,
+      "score_delta": -0.74497652,
+      "rank": 123,
+      "rank_delta": 70
+    },
+    "all_project_evidence_removed": {
+      "score": 1.81979945,
+      "score_delta": -8.77556676,
+      "rank": 25693,
+      "rank_delta": 25640
+    }
+  }
+}
