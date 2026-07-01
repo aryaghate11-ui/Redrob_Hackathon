@@ -1,53 +1,147 @@
-Redrob Ranker
-Evidence-based candidate ranking system for the India.RUNS / Redrob Data & AI Challenge.
-The system ranks candidates using proof from work history, skill evidence, career trajectory, JD fit, and credibility checks instead of only matching keywords.
-Links
-GitHub: https://github.com/aryaghate11-ui/Redrob_Hackathon
-Hugging Face demo: https://huggingface.co/spaces/RogerDev-1234/Redrob-ranker
-Main files
-reports/team_xxx.csv                                  Final ranked output
-Idea_Submission_Template_Redrob_Filled_Final.pptx     Pitch deck
-make_final_submission.py                              Generates final CSV
-START_WORKDNA.ps1                                     Starts local app
-app/                                                  Backend
-web/                                                  Frontend
-hf_space/                                             Hugging Face demo
-How to run the local app
-Open PowerShell and go to the project folder:
-Set-Location -LiteralPath "C:\Users\Aarya\Downloads\[PUB] India_runs_data_and_ai_challenge\redrob_sybmission"
-Start the app:
+# Redrob Ranker
+
+An evidence-based candidate ranking system built for the **India.RUNS × Redrob Data & AI Challenge**.
+
+Instead of ranking candidates using only keyword matching, Redrob evaluates candidates based on actual career evidence, skill validation, work history, job description fit, and profile credibility.
+
+---
+
+## Features
+
+- Evidence-based candidate ranking
+- Skill validation from work experience
+- Career growth and trajectory analysis
+- Job Description (JD) matching
+- Profile credibility checks
+- Generates submission-ready ranking CSV
+
+---
+
+## Project Links
+
+**GitHub Repository**
+
+https://github.com/aryaghate11-ui/Redrob_Hackathon
+
+**Hugging Face Demo**
+
+https://huggingface.co/spaces/RogerDev-1234/Redrob-ranker
+
+---
+
+## Project Structure
+
+```
+app/                Backend
+web/                Frontend
+hf_space/           Hugging Face demo
+
+reports/
+    team_xxx.csv    Final ranked output
+
+make_final_submission.py
+START_WORKDNA.ps1
+
+Idea_Submission_Template_Redrob_Filled_Final.pptx
+```
+
+---
+
+## Running the Project
+
+### 1. Open PowerShell
+
+Navigate to the project folder:
+
+```powershell
+Set-Location -LiteralPath "C:\Users\Aarya\Downloads\[PUB] India_runs_data_and_ai_challenge\redrob_submission"
+```
+
+Start the application:
+
+```powershell
 .\START_WORKDNA.ps1
-Open this in your browser:
+```
+
+Open:
+
+```
 http://127.0.0.1:8765
-How to generate the final ranking CSV
-From the project folder:
+```
+
+---
+
+## Generate Final Submission CSV
+
+Run:
+
+```powershell
 python .\make_final_submission.py
-The final CSV is saved here:
+```
+
+Output:
+
+```
 reports/team_xxx.csv
-How to validate the submission CSV
-Use the validator provided in the original dataset folder:
-python "C:\Users\Aarya\Downloads\[PUB] India_runs_data_and_ai_challenge\[PUB] India_runs_data_and_ai_challenge\India_runs_data_and_ai_challenge\validate_submission.py" "C:\Users\Aarya\Downloads\[PUB] India_runs_data_and_ai_challenge\redrob_sybmission\reports\team_xxx.csv"
+```
+
+---
+
+## Validate the CSV
+
+Use the official validator:
+
+```powershell
+python "...\validate_submission.py" "...\reports\team_xxx.csv"
+```
+
 Expected output:
+
+```
 Submission is valid.
-Model summary
-Final ranking uses:
-30% Skill Evidence
-23% Career Physics
-20% WorkDNA
-14% JD Mission Fit
-8% Credibility Audit
-5% Behavioral / hireability signal
-What these mean
-Skill Evidence: checks whether claimed skills are supported by actual work/project text.
-Career Physics: measures role complexity, career velocity, resilience, and growth into harder work.
-WorkDNA: baseline profile from career history, ownership, production work, and role signals.
-JD Mission Fit: compares candidate evidence against the job description needs.
-Credibility Audit: penalizes suspicious or impossible profiles.
-Behavior Signal: adds lightweight hireability/platform activity signals.
-Submission checklist
-Before final submission, include:
-GitHub repo link
-Hugging Face/demo link
-Pitch deck PDF/PPTX
-Final ranked CSV: reports/team_xxx.csv
-If required by the organizers, rename team_xxx.csv to your official team or participant ID.stuffer risk while still preserving useful semantic/profile information.
+```
+
+---
+
+## Ranking Model
+
+The final score combines multiple evidence-based signals:
+
+| Component | Weight |
+|-----------|--------|
+| Skill Evidence | 30% |
+| Career Physics | 23% |
+| WorkDNA | 20% |
+| JD Mission Fit | 14% |
+| Credibility Audit | 8% |
+| Behavioral Signal | 5% |
+
+### What they measure
+
+- **Skill Evidence** – Confirms skills using real work and project experience.
+- **Career Physics** – Evaluates career growth, responsibility, and progression.
+- **WorkDNA** – Measures ownership, production work, and overall career profile.
+- **JD Mission Fit** – Compares candidate experience against the job description.
+- **Credibility Audit** – Detects inconsistent or unrealistic profiles.
+- **Behavioral Signal** – Adds lightweight hireability indicators.
+
+---
+
+## Submission Checklist
+
+- GitHub Repository
+- Hugging Face Demo
+- Pitch Deck (PPT/PDF)
+- Final CSV (`reports/team_xxx.csv`)
+
+If required, rename `team_xxx.csv` to your official team or participant ID before submission.
+
+---
+
+## Development
+
+This project was developed with the assistance of **OpenAI Codex** for faster implementation, code generation, debugging, and model integration.
+
+The repository was managed and uploaded using **Antigravity**, which streamlined version control and GitHub workflows.
+
+---
